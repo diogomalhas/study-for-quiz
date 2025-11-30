@@ -13,7 +13,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Think about the four key dimensions where a trend can impact a company: its long-term strategy, how it makes money, its offering, and how it communicates.",
     "short_explanation": "The four types of innovation cover the entire business structure: Vision (strategic direction), Business Model (how value is captured), Product/Service (the offering), and Marketing/Campaigns (how the offering is communicated).",
-    "long_explanation": "The four primary types of innovation used for trend analysis are Vision, Business Model, Product/Service, and Marketing/Campaigns. These categories help innovators assess how macro trends and emerging expectations are manifested across all layers of a business. For example, Vision Innovation focuses on shifts in long-term goals, while Business Model innovation examines if a trend unlocks new ways of operation or value capture. All four are essential for driving strategic business decisions and achieving long-term success."
+    "long_explanation": "The four primary types of innovation used for trend analysis are Vision, Business Model, Product/Service, and Marketing/Campaigns. These categories help innovators assess how macro trends and emerging expectations are manifested across all layers of a business. Innovation is crucial because developing new products alone is insufficient in the modern competitive environment. These dimensions allow companies to seek deeper competitive advantage in areas like the Business Model or Vision."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "tema": "Expectation Economy and Trend-Driven Innovation",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf, MSI - Value Proposition and Trend-Driven Innovation",
     "hint": "Remember the fundamental definition from TrendWatching: trends are simply new ways for old, unchanging human needs to be expressed.",
-    "short_explanation": "A consumer trend reflects new expressions (behavior, attitude, expectation) of universal, deep-rooted human needs and wants. Trends are rooted in fundamental human nature, which rarely changes [46–47, 431, 500, 512].",
-    "long_explanation": "This statement is **True**. Trends are defined as a new manifestation of a fundamental human need, want, or desire [46–47, 431]. While technology and external drivers of change evolve rapidly, the underlying human needs (like connection, safety, or status) remain constant. Trends emerge from the tension created when new innovations interact with these unchanging basic needs and macro-level changes (Shifts and Triggers) [48–49, 574]."
+    "short_explanation": "A consumer trend reflects new expressions (behavior, attitude, expectation) of universal, deep-rooted human needs and wants. Trends are rooted in fundamental human nature, which rarely changes.",
+    "long_explanation": "This statement is True. A consumer trend is defined as a new manifestation among people of a fundamental human need, want or desire. While macro forces (Drivers of Change) evolve, the underlying human needs (like connection, safety, or status) remain constant. Trends emerge from the tension created when new innovations interact with these unchanging basic needs and macro-level changes."
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Think about the three core areas of the Customer Profile half of the Value Proposition Canvas. The goal is to achieve 'Fit' with the Value Map.",
     "short_explanation": "To create a strong value proposition, the offering must address the critical trifecta of the Customer Profile: the functional, social, or emotional tasks the customer is trying to complete (Jobs), the bad outcomes they want to avoid (Pains), and the positive results they want to achieve (Gains).",
-    "long_explanation": "Understanding all three elements—Customer Jobs, Pains, and Gains—is crucial for formulating an effective Value Proposition. When crafting the Value Proposition Canvas, the goal is to achieve 'Fit' between the customer profile (jobs/pains/gains) and the value map (products/pain relievers/gain creators). Companies often fail because they create products that no one wants; understanding this trifecta increases the chances of success."
+    "long_explanation": "Understanding all three elements—Customer Jobs, Pains, and Gains—is crucial for formulating an effective Value Proposition. The main goal of the Value Proposition Canvas is to achieve 'Fit' between the Customer Profile (jobs, pains, gains) and the Value Map (products, pain relievers, gain creators). Companies often fail because they create products that no one wants; understanding this trifecta increases the chances of success and aligns with Customer-Centered Innovation."
   },
   {
     "id": 4,
@@ -58,8 +58,8 @@
     "tema": "Hyper-Relevance and E² Design",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "These 5 Ps replace the traditional 4 Ps (Product, Price, Place, Promotion) by focusing on deep customer connection, from shared values (Purpose) to individual experiences (Personalization).",
-    "short_explanation": "The 5 P's of Hyper-Relevance are Purpose, Pride, Partnership, Protection, and Personalization. They extend beyond traditional marketing elements to test relevance based on shared values (Purpose) and basic psychological needs (Protection/Pride), with Personalization being the multiplicative factor.",
-    "long_explanation": "The latest era of Marketing is the Era of Relevance, requiring a new framework. The 5 P's (Purpose, Pride, Partnership, Protection, Personalization) derive from Maslow’s hierarchy of needs, mapping customer motivations from self-actualization (Purpose) to basic safety (Protection). Personalization is the key multiplier, ensuring the right message or experience is delivered in the right context, enhancing customer engagement."
+    "short_explanation": "The 5 P's of Hyper-Relevance are Purpose, Pride, Partnership, Protection, and Personalization. They extend beyond traditional marketing elements to test relevance based on shared values and basic psychological needs, with Personalization being the multiplicative factor.",
+    "long_explanation": "The latest era of Marketing is the **Era of Relevance**, requiring a new framework. The 5 P's (Purpose, Pride, Partnership, Protection, Personalization) derive from the psychological hierarchy, mapping customer motivations from self-actualization (Purpose) to basic safety (Protection). Personalization is the key multiplier, ensuring experiences are continuously tailored to individual needs and priorities, enhancing customer engagement."
   },
   {
     "id": 5,
@@ -73,9 +73,9 @@
     "resposta_correta": "Word-of-mouth",
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
-    "hint": "Word-of-mouth (WOM) is typically considered an **outcome** or **result** of high engagement, not a factor that *creates* the initial engagement itself. Focus on internal feelings.",
-    "short_explanation": "Word-of-mouth (WOM) is a behavioral intention that results from high customer engagement and satisfaction, along with commitment and positive emotions. The creation of engagement is driven by internal and relational factors like Trust, Satisfaction, and Positive Emotions.",
-    "long_explanation": "Customer Engagement is fostered by factors like Trust, Satisfaction, and Positive Emotions. Engagement then leads to improved firm performance through outcomes like **Behavioral Intentions** and **Word-of-Mouth**. Therefore, WOM is an *outcome* of the process, not a contributor to the initial creation of engagement."
+    "hint": "Word-of-mouth (WOM) is typically considered an outcome or result of high engagement, not a factor that creates the initial engagement itself. Focus on internal feelings.",
+    "short_explanation": "Word-of-mouth (WOM) is a behavioral intention that results from high customer engagement and satisfaction. The creation of engagement is driven by internal and relational factors like Trust, Satisfaction, and Positive Emotions.",
+    "long_explanation": "Customer Engagement (CE) is fostered by factors like Trust, Satisfaction, and Positive Emotions. Engagement then leads to improved firm performance through outcomes like Behavioral Intentions and Word-of-Mouth. Therefore, WOM is an outcome of the process, a positive behavioral intention, but not a contributor to the initial creation of engagement."
   },
   {
     "id": 6,
@@ -92,7 +92,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Laddering is a qualitative, not a quantitative, technique. Its goal is depth of insight by connecting product attributes to personal values.",
     "short_explanation": "Laddering is a method that connects product attributes to deep emotional motivations and values, revealing the 'reasons behind the reasons' for purchase decisions. It is about qualitative depth, not reducing time.",
-    "long_explanation": "Laddering is an effective tool for understanding deeper customer motivations. Its purpose is to uncover the basic emotions or values that drive customer decisions and allow researchers to reach deeper levels of customer understanding. This approach is crucial for innovation because it helps uncover underlying values that can be served in novel ways."
+    "long_explanation": "Laddering is an effective tool for understanding deeper customer motivations and values. Its purpose is to uncover the basic emotions or values that drive customer decisions and allow researchers to reach deeper levels of customer understanding. It works by moving from superficial product attributes to the functional consequences and finally to the personal values or emotions (the 'reasons behind the reasons'), which is critical for Customer-Centered Innovation."
   },
   {
     "id": 7,
@@ -107,8 +107,8 @@
     "tema": "Strategic Vision and Purpose",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "While a vision contributes to competitive advantage, its core function is direction. Think long-term aspiration, not immediate display or short-term planning.",
-    "short_explanation": "A strategic vision statement sets the long-term aspirations for the company's growth and impact. While it *contributes* to competitive advantage, its primary role is describing the **desired future position**. Short-term goals are part of tactical planning.",
-    "long_explanation": "The strategic vision establishes long-term aspirations (e.g., 10 years) for the company’s future position, growth, and impact. It should describe the desired future position of the company. Although it helps display competitive advantage and is linked to strategic objectives, defining the long-term goal and remaining open to iterating on the strategy is its core purpose."
+    "short_explanation": "A strategic vision statement sets the long-term aspirations for the company's growth and impact. While it contributes to competitive advantage, its primary role is describing the desired future position. Short-term goals are part of tactical planning.",
+    "long_explanation": "The strategic vision establishes long-term aspirations (e.g., 10 years) for the company’s future position, growth, and impact. It is essential for guiding decision-making and ensuring all parts of the business are aligned. Defining the long-term goal and remaining open to iterating on the strategy is its core purpose, as the strategy must be Dynamic and Flexible in the Era of Relevance."
   },
   {
     "id": 8,
@@ -124,7 +124,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Tactical planning is about short-term action required to start executing the long-term strategy. Think short time horizons.",
     "short_explanation": "Tactical planning translates the overall strategy into specific, actionable steps and is generally concentrated in the initial short-term period of strategy implementation, specifically the first 12 to 24 months.",
-    "long_explanation": "Strategic planning involves setting a long-term vision, followed by tactical planning. Tactical planning addresses the immediate steps and actions necessary to start implementing the strategy and typically spans the first 12 to 24 months of the organizational strategy. The vision itself should articulate a strong position for years ahead while being flexible enough for iterative strategy adjustments."
+    "long_explanation": "Strategic planning requires defining a long-term vision, which is then broken down into shorter-term tactical plans. According to the strategic framework discussed (often associated with Harvard), tactical planning addresses the immediate steps and actions necessary to start executing the strategy, spanning the first 12 to 24 months of the organization’s strategy."
   },
   {
     "id": 9,
@@ -139,8 +139,8 @@
     "tema": "Strategy and Innovation",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Strategic Innovation involves a dynamic, organization-wide approach that is forward-looking (Building the future), unlike traditional approaches which can be static and internal.",
-    "short_explanation": "A Strategy-Driven Organization is characterized by elements that move from Internal to **Systemic** and from Static to **Dynamic**. Strategic innovation is participatory, systemic, flexible, and aims to **build the future** (proactive attitude), rather than merely preparing for it or waiting for it to happen.",
-    "long_explanation": "Traditional strategy is often centralizing, static, internal, and aims to 'prepare for the future' (reactive attitude). Strategic Innovation, or the Strategy-Driven Organization, is participatory, systemic, and flexible, aiming to actively 'Build the future' (proactive attitude) and 'Make it Happen'. It is inherently dynamic, adapting continuously to change."
+    "short_explanation": "A Strategy-Driven Organization is characterized by elements that move from Internal to Systemic and from Static to Dynamic. Strategic innovation is participatory, systemic, flexible, and aims to actively Build the future.",
+    "long_explanation": "Strategic Innovation characterizes a **Strategy-Driven Organization**. This approach contrasts with traditional, static methods by being participatory, systemic, and flexible, actively aiming to 'Build the future' (a proactive attitude). The strategy moves from being Internal (traditional) to Systemic, where it is integrated across the entire organization. It also shifts from being Static (rigid) to Dynamic, allowing for continuous adaptation."
   },
   {
     "id": 10,
@@ -153,8 +153,8 @@
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "The trend 'Fuzzynomics' explicitly addresses this blurring. Think about crowdfunding and prosumer models.",
-    "short_explanation": "The divisions between producers and consumers are becoming increasingly blurred, driven by the democratization of technologies and tools (a mega-trend called Fuzzynomics). Collaborative consumption models also facilitate this shift [32–33, 188].",
-    "long_explanation": "This statement is **False**. The boundaries between producers and consumers are rapidly blurring due to trends like Fuzzynomics (democratization of technologies and platforms). Models like crowdfunding and collaborative consumption (e.g., BlaBlaCar) mean that customers are increasingly becoming participants, collaborators, and even producers, demanding a shift away from rigid divisions [32–33, 519]."
+    "short_explanation": "The divisions between producers and consumers are becoming increasingly blurred, driven by the democratization of technologies (Fuzzynomics). Collaborative consumption models also facilitate this shift.",
+    "long_explanation": "This statement is False. The boundaries between producers and consumers are rapidly blurring due to trends like **Fuzzynomics** and the democratization of technologies and platforms. Collaborative consumption models (e.g., BlaBlaCar, Uber) mean that customers are increasingly becoming participants, collaborators, or 'prosumers,' demanding a shift away from rigid divisions [34–35, 305]."
   },
   {
     "id": 11,
@@ -169,8 +169,8 @@
     "tema": "Strategic Vision and Purpose",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "A mission statement defines the business's current operations and scope (Who, What, How), but doesn't necessarily detail who they are fighting against.",
-    "short_explanation": "The mission statement usually includes elements like the target customers, the core technology used, and the company's self-concept (distinctive competence). Competitors are generally considered part of the external environment and are addressed in competitive strategy, not the mission itself.",
-    "long_explanation": "The mission statement outlines the company's essential purpose, defining 'Why' it exists, 'What' it does, 'Who' it serves, and 'How' it operates. Standard components often include Customers, Products/Services, Markets, Technology, Philosophy, Self-Concept (distinctive competence), Public Image, and Employees. Competitors are typically excluded from the core mission definition."
+    "short_explanation": "The mission statement usually includes elements like the target customers, the core technology used, and the company's self-concept (distinctive competence). Competitors are generally excluded, as they are addressed in competitive strategy.",
+    "long_explanation": "The mission statement outlines the company's essential purpose, defining 'Why' it exists, 'What' it does, 'Who' it serves, and 'How' it operates. Standard components often include Customers, Technology, Self-Concept (distinctive competence), Markets, Products/Services, and Philosophy. Competitors are typically excluded from the core mission definition, which focuses on the organization's unique identity and scope."
   },
   {
     "id": 12,
@@ -185,8 +185,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "A Red Ocean is bloody and competitive. You are fighting for market share in a known space, typically through cost leadership or differentiation (Porter's strategies).",
-    "short_explanation": "Red Ocean Strategy focuses on competition within existing, known market spaces, often involving a zero-sum game where competitors fight for the same demand. Creating new demand and breaking the value-cost trade-off characterize the Blue Ocean Strategy.",
-    "long_explanation": "Red Ocean Strategy involves competing in existing market spaces, aiming to beat the competition and exploit existing demand. In contrast, Blue Ocean Strategy seeks to create uncontested market space, making the competition irrelevant. Red Ocean typically involves forcing a trade-off between differentiation and low cost, a trade-off that Value Innovation (BOS) seeks to break."
+    "short_explanation": "Red Ocean Strategy focuses on competition within existing, known market spaces, aiming to beat competitors and exploit existing demand. Creating new demand and breaking the value-cost trade-off characterize the Blue Ocean Strategy.",
+    "long_explanation": "Red Ocean Strategy involves competing within existing, defined market spaces where companies fight to gain a greater share of existing demand. This often involves intense, cutthroat competition. The Blue Ocean Strategy, conversely, seeks to create uncontested market space, making the competition irrelevant, often by pursuing Value Innovation (breaking the value-cost trade-off)."
   },
   {
     "id": 13,
@@ -202,7 +202,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "The Five Rules ensure that the purpose is authentic (DNA), distinct (Unique/Hard to Copy), beneficial (Clearly Superior), and durable (Adaptive).",
     "short_explanation": "The Five Rules of Purpose are: Respect the company's DNA (Don't pretend to be what you are not), Be Unique, Hard to Copy, Clearly Superior (advantage perceived by all stakeholders), and Adaptive (able to adapt to the environment).",
-    "long_explanation": "These rules ensure that a company’s purpose is robust, authentic, and creates a defensible competitive advantage. 'Don't pretend to be what you are not' means respecting the company's DNA; 'To be able to adapt to the environment' is necessary for durability (Adaptive); and 'The advantage must be perceived by all the stakeholders' confirms the purpose creates real, perceived value. Price cuts, for instance, are explicitly noted as *not* the best strategy for maintaining a hard-to-copy advantage."
+    "long_explanation": "These rules ensure that a company’s purpose is robust and creates a defensible competitive advantage. 'Don’t pretend to be what you are not' respects the company's DNA. The purpose must be Adaptive (able to adapt to the environment) for durability. Finally, the advantage must be Clearly Superior and perceived by all stakeholders. Price cuts are noted as not being the best strategy for maintaining a hard-to-copy advantage."
   },
   {
     "id": 14,
@@ -217,8 +217,8 @@
     "tema": "Strategy and Innovation",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Closed thinking is often constrained by internal processes or technical specifications. Open thinking looks outward to the user experience.",
-    "short_explanation": "Open thinkers adopt a perspective that is centered on the customer and the application of the product/service in the customer's life, rather than being limited by conventions, functionality, or rational aspects (characteristics of closed thinkers).",
-    "long_explanation": "Open thinkers prioritize understanding the customer’s experience and how the offering applies to their lives. This contrasts with innovators constrained by conventional or purely rational/technical thinking, who struggle to make the 'unasked-for leaps forward' necessary for long-term success, which characterize Customer-Centered Innovation."
+    "short_explanation": "Open thinkers adopt a perspective that is centered on the customer and the application of the product/service in the customer's life, contrasting with closed thinkers who are limited by conventions, functionality, or rational aspects.",
+    "long_explanation": "Open thinkers prioritize understanding the customer’s experience and the application of the offering. This mindset is crucial for Customer-Centered Innovation, as it allows organizations to make the 'unasked-for leaps forward' necessary for long-term success. Closed thinkers, conversely, are typically functional, technical, rational, or limited by convention, leading to incremental innovation."
   },
   {
     "id": 15,
@@ -234,7 +234,7 @@
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "The Rule of Three identifies three types of dominant players. Specialists typically target niche, high-value segments, prioritizing high profit per unit.",
     "short_explanation": "The Rule of Three suggests that mature markets are often dominated by three main players: one 'volume-driven' generalist and two 'margin-driven' specialists. Specialists focus on serving niche markets at high margins.",
-    "long_explanation": "The Rule of Three framework states that markets tend to favor three dominant players with varying strategies. Product/market specialists fall into the 'margin-driven' category, focusing on serving specific segments or niches where they can command higher prices and achieve higher margins, rather than prioritizing overall volume or broad market share."
+    "long_explanation": "The Rule of Three framework states that markets tend to favor three dominant players with varying strategies. Product/market specialists fall into the **margin-driven** category, focusing on specific segments where they can command higher prices and achieve higher profitability (margin). This contrasts with the volume-driven generalist focused on broad market share. Firms that fail to achieve either volume or margin become 'ditch dwellers'."
   },
   {
     "id": 16,
@@ -249,8 +249,8 @@
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Behavioral intention (like repeat purchase or recommendation) is the result of the deep, emotional connection established with the brand.",
-    "short_explanation": "Behavioral intention (BI) refers to the customer's likelihood to act (e.g., repurchase, recommend). BI is a direct and important positive outcome of high customer engagement.",
-    "long_explanation": "Customer Engagement (CE) is driven by elements like trust, satisfaction, and positive emotions. CE, in turn, directly results in **Behavioural Intentions**, which contribute significantly to long-term firm performance through actions like word-of-mouth and commitment. Note that word-of-mouth is also a behavioural intention, but CE is the upstream driver."
+    "short_explanation": "Behavioral intention (BI) refers to the customer's likelihood to act (e.g., repurchase, recommend). BI is a direct and important positive outcome of high **Customer Engagement**.",
+    "long_explanation": "Customer Engagement (CE) is driven by elements like trust, satisfaction, and positive emotions. High CE acts as the bridge that directly results in **Behavioural Intentions** (such as word-of-mouth or commitment), which, in turn, contribute significantly to long-term firm performance. Therefore, CE is the upstream driver of BI."
   },
   {
     "id": 17,
@@ -265,8 +265,8 @@
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "The key reason is 'Expectation Transfer.' High performance in one sector immediately raises expectations in all others.",
-    "short_explanation": "Looking at businesses (innovations) first is smarter because of **Expectation Transfer**: customers' experiences (e.g., with Apple or H&M) quickly raise their expectations across all industries, even if they haven't personally experienced the 'best'. New ventures are a 'bet on the future,' but the impact on customer expectation transfer is the primary reason.",
-    "long_explanation": "This counterintuitive secret to customer-centricity is based on four reasons, the most critical being **Expectation Transfer**. High standards in one area (e.g., the seamlessness of an iPhone) are quickly transferred to other, unrelated services (e.g., an in-car entertainment system). Companies need to anticipate these emerging expectations by observing which innovations are successfully setting new, higher standards."
+    "short_explanation": "Looking at businesses (innovations) first is smarter because of **Expectation Transfer**: customers' expectations are frequently raised without them having personally experienced 'The best', as high standards in one industry quickly spread to others.",
+    "long_explanation": "This is the counterintuitive secret to customer-centricity. The most critical reason is **Expectation Transfer**. High standards set in one area (e.g., Apple's design or Singapore Airlines' service) are quickly transferred to unrelated services (e.g., in-car entertainment or retail experience). Companies must anticipate these emerging expectations by observing which innovations are successfully setting new, higher standards globally."
   },
   {
     "id": 18,
@@ -279,8 +279,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Non-customers are segmented into three tiers: Tier 1 (minimal users), Tier 2 (refusing non-customers), and Tier 3 (unexplored non-customers). You must identify which tier represents the furthest untapped potential.",
-    "short_explanation": "This is **False**. The third tier of non-customers comprises those who have **never considered** the industry's offerings, representing the furthest untapped market potential. The second tier are those who refuse to use the offerings.",
-    "long_explanation": "The Blue Ocean framework identifies three tiers of non-customers to target and convert into new market demand:\n1. First Tier: 'Soon-to-be' non-customers (minimal usage).\n2. Second Tier: 'Refusing' non-customers (those who consciously refuse).\n3. Third Tier: 'Unexplored' non-customers (those who have never considered the market's offerings). Tier 3 represents the largest potential for creating uncontested market space."
+    "short_explanation": "This is **False**. The third tier of non-customers comprises those who have **never considered** the industry's offerings, representing the furthest untapped market potential. The second tier consists of those who consciously refuse to use the offerings.",
+    "long_explanation": "The Blue Ocean framework identifies three tiers of non-customers to convert into new demand: Tier 1 ('Soon-to-be' non-customers), Tier 2 ('Refusing' non-customers), and Tier 3 ('Unexplored' non-customers). Targeting Tier 3 offers the largest potential for creating uncontested market space, as these people are entirely outside the market's current boundaries."
   },
   {
     "id": 19,
@@ -293,8 +293,8 @@
     "tema": "Strategy and Innovation",
     "fonte": "Quiz 2 - Questions (19).pdf, Quiz 2 - Questions (87).pdf",
     "hint": "Gamechangers focus on disruptive, contagious ideas. They often redefine fundamental aspects of the business rather than making incremental changes.",
-    "short_explanation": "This is **True**. Gamechangers articulate disruptive and contagious ideas by innovating across core business dimensions: the **Why** (purpose), **Who** (target), **What** (product), and **How** (business model/processes).",
-    "long_explanation": "Gamechangers seek new possibilities and disrupt the market by questioning the fundamentals of the business. Innovation in these dimensions—the why (Purpose/Vision), who (Target Consumers), what (Product/Experience), and how (Business Model/Competencies)—is crucial for transformation and strategic advantage. This systematic approach distinguishes Strategic Innovation from simple, isolated product changes."
+    "short_explanation": "This is **True**. Gamechangers articulate disruptive and contagious ideas by innovating across core business dimensions: the **Why** (purpose/vision), **Who** (target), **What** (product), and **How** (business model/processes).",
+    "long_explanation": "Gamechangers seek new possibilities and disrupt the market by questioning the fundamentals of the business. Innovation across the 'why, who, what and how' dimensions is crucial for achieving transformation and strategic advantage. This systemic approach is essential in the Era of Relevance, contrasting with traditional, incremental innovation."
   },
   {
     "id": 20,
@@ -310,7 +310,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Strategy Relevance and E² Design",
     "hint": "In the face of digital competition, focusing on loyalty is outdated. The new focus is on being essential to the customer's current life.",
     "short_explanation": "The latest Era of Marketing is the **Era of Relevance**. This era is defined by the need for companies to be profoundly relevant to customers at an accelerating pace, often driven by the '5 P’s of Hyper-Relevance'.",
-    "long_explanation": "In an environment dominated by digital competition and customer control, the competitive landscape has shifted from focusing on loyalty (which is harder to maintain) to ensuring the brand achieves **relevance**. Being a 'living business' means evolving constantly to offer the customer more than just a product, achieving a profound degree of relevance that grants pricing power and drives repeat purchases."
+    "long_explanation": "In an environment dominated by digital competition and customer control, the competitive landscape has shifted from focusing on loyalty (which is difficult to maintain) to ensuring the brand achieves **relevance**. The Era of Relevance is about being a 'living business' that constantly evolves to offer customers more than just a product, leveraging the 5 P's (Purpose, Pride, Partnership, Protection, Personalization) to secure purchases and gain pricing power."
   },
   {
     "id": 21,
@@ -323,8 +323,8 @@
     "tema": "Strategic Relevance and E² Design",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Digital tools allow customers easy comparisons and low switching costs. In this environment, hyper-relevance often trumps established loyalty.",
-    "short_explanation": "This is **False**. In the digital era, people are choosing brands based on **relevance** and instantaneous comparison, often overriding loyalty. The Era of Relevance replaces the traditional focus on loyalty as the ultimate marketing goal.",
-    "long_explanation": "The rise of digital-based competition, near-perfect information, and low barriers to switching have pushed the informed customer close to extinction, favoring brands that are highly relevant *in the moment* over those relying solely on past loyalty. Companies must focus on the 5 P's of hyper-relevance (Purpose, Pride, Partnership, Protection, Personalization) to secure these purchases, recognizing that loyalty alone is insufficient for sustained success."
+    "short_explanation": "This is **False**. In the digital era, people are choosing brands based on **relevance** and instantaneous comparison. The Era of Relevance replaces the traditional focus on loyalty as the ultimate marketing goal.",
+    "long_explanation": "The rise of digital competition, near-perfect information, and low barriers to switching have pushed the uninformed customer close to extinction. This environment favors brands that are highly relevant in the moment over those relying solely on past loyalty. Companies must achieve hyper-relevance (via the 5 P's) to secure these purchases."
   },
   {
     "id": 22,
@@ -338,9 +338,9 @@
     "resposta_correta": "Company’s established practices",
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "The trend methodology seeks to identify tension created by *external* forces (change drivers) and *internal* desires (basic needs). Established practices are what should be challenged.",
-    "short_explanation": "Consumer trends are driven by the interaction (tension) between **Basic Needs**, **Drivers of Change** (Shifts and Triggers), and the resulting **Expectation Gaps** created by new innovations [48–49, 59, 478, 568]. Company's established practices represent the status quo that needs to be innovated upon or disrupted.",
-    "long_explanation": "Trend-driven innovation relies on identifying the tension created when new offerings (innovations) fail to meet the accelerating expectations of consumers, which are shaped by basic human needs and macro-level drivers of change [48–49, 59, 574]. Established company practices are generally the starting point *before* innovation occurs and are not considered a source for *new* consumer trends."
+    "hint": "The trend methodology seeks to identify tension created by external forces (change drivers) and internal desires (basic needs). Established practices are what should be challenged.",
+    "short_explanation": "Consumer trends are driven by the interaction (tension) between **Basic Needs**, **Drivers of Change** (Shifts and Triggers), and the resulting **Expectation Gaps** created by new innovations. Company's established practices represent the status quo that needs to be innovated upon.",
+    "long_explanation": "Trend-driven innovation relies on identifying the tension created when new offerings fail to meet accelerating expectations, which are shaped by basic human needs and macro-level drivers of change. Company's established practices are generally the starting point *before* innovation occurs and are what should be challenged and revised, making them an exception to the sources of new consumer trends."
   },
   {
     "id": 23,
@@ -353,8 +353,8 @@
     "tema": "Customer-Centric Innovation",
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Value Proposition and Trend-Driven Innovation",
     "hint": "Reread the definitions. Which term describes the 'deeply empathetic understanding'? It is the one that gives freedom to make 'unasked-for leaps.'",
-    "short_explanation": "This statement is **False**. **Customer-Centered Innovation** is the term grounded in a deeply empathetic understanding of customer needs. **Customer-Led Innovation** is the reactive approach that *only* follows explicit customer needs and wants.",
-    "long_explanation": "The source material contrasts two approaches: **Customer-Led Innovation** (the reactive, 'avoid' approach that only follows explicit wants) and **Customer-Centered Innovation** (the proactive approach, grounded in deep empathy and understanding, which grants organizations the freedom to make the 'unexpected and often unasked-for leaps forward' leading to long-term success)."
+    "short_explanation": "This statement is **False**. **Customer-Centered Innovation** is the term grounded in a deeply empathetic understanding of customer needs. Customer-Led Innovation is the reactive approach that only follows explicit customer needs.",
+    "long_explanation": "The source material contrasts **Customer-Led Innovation** (reactive, only follows explicit wants) with **Customer-Centered Innovation** (proactive, grounded in deep empathy and understanding). Customer-Centered Innovation grants the freedom to make the 'unexpected and often unasked-for leaps forward' necessary for long-term success. Customer-Led innovation is generally labeled as the approach to 'avoid' due to its tendency towards incremental change."
   },
   {
     "id": 24,
@@ -367,7 +367,7 @@
     "tema": "Types of Innovation (Business Model)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Business Model Innovation focuses on the fundamental architecture: how the company creates, delivers, and captures value (including the Value Proposition and operating structures).",
-    "short_explanation": "This is **True**. Business model innovation involves changing key elements of how the business operates, often redefining the **value proposition** to customers, key resources, or the underlying **operating model**.",
+    "short_explanation": "This is **True**. Business model innovation involves changing key elements of how the business operates, often redefining the **value proposition** to customers or the underlying **operating model** of the company.",
     "long_explanation": "Business model innovation is one of the four key types of innovation. It is crucial because developing new products alone is insufficient in the modern competitive environment. Innovation at this level involves changing the core structure and how the company generates, delivers, and captures value, which includes modifying the value proposition or the operating model."
   },
   {
@@ -380,9 +380,9 @@
     "resposta_correta": "False",
     "tema": "Types of Innovation (Business Model)",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Foresight is a broad concept related to anticipating the future. Determining ignored needs is typically part of strategic *analysis* (like assessing non-customers in Blue Ocean).",
-    "short_explanation": "This is **False**. Foresight relates to anticipating future trends and their implications for the business, often involving long-term macro trend analysis. Determining ignored customer needs is a part of market assessment and defining opportunities, but not the specific definition of 'foresight' within Business Model Innovation.",
-    "long_explanation": "Foresight, in the context of strategic innovation, refers to the capability to anticipate and understand macro trends and shifts that will impact the company's future. While this influences the creation of new business models, the specific act of identifying ignored customer needs falls under customer research (e.g., Value Proposition Canvas or Blue Ocean analysis). The goal of Business Model innovation is to change the operating model or value proposition, often due to foresight regarding industry shifts."
+    "hint": "Foresight is a broad concept related to anticipating the future. Determining ignored needs is typically part of strategic analysis (like assessing non-customers in Blue Ocean).",
+    "short_explanation": "This is **False**. Foresight relates to anticipating future trends and their implications for the business, often involving long-term macro trend analysis. Determining ignored customer needs is part of market assessment and opportunity definition.",
+    "long_explanation": "Foresight, in the context of strategic innovation, refers to the capability to anticipate and understand macro trends and shifts that will impact the company's future. While this influences the creation of new business models, the specific act of identifying ignored customer needs is a function of customer research (e.g., Value Proposition Canvas, Blue Ocean analysis of non-customers), not the definition of foresight itself."
   },
   {
     "id": 26,
@@ -395,8 +395,8 @@
     "tema": "Strategic Vision and Purpose",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Vision is the long-term destination, Strategy is the flexible roadmap. The two elements must coexist for strategic relevance.",
-    "short_explanation": "This is **True**. A strong vision defines the long-term, desired future position of the company. However, in a dynamic environment, the strategy used to achieve that vision must remain flexible and open to iterative adjustments to maintain relevance.",
-    "long_explanation": "The strategic guidance process requires companies to define a North Star (Vision and Purpose) while embracing a Proactive and Dynamic Attitude toward the Strategy. The vision sets long-term goals for growth and impact. If the vision is 'Hard' (rigid) or 'Static' (unresponsive), the company will struggle in the Era of Relevance. Therefore, articulating a strong, long-term vision while being open to iterating the strategy is essential."
+    "short_explanation": "This is **True**. A strong vision defines the long-term, desired future position of the company. However, the strategy used to achieve that vision must remain flexible and open to iterative adjustments to maintain relevance in a dynamic environment.",
+    "long_explanation": "The strategic guidance process requires companies to define a North Star (Vision) while embracing a Proactive and Dynamic Attitude toward the Strategy. The vision sets long-term goals for growth and impact. If the vision were Static (rigid), the company would struggle to adapt and maintain relevance in a hyper-competitive market. Therefore, iterative strategy adjustments are essential."
   },
   {
     "id": 27,
@@ -411,8 +411,8 @@
     "tema": "Additional Topics (Digital Revolution)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The third wave is defined by large-scale transformation, leveraging collective intelligence. The embracing of basic digital tools (internet/mobile) is generally associated with earlier stages of digital adoption.",
-    "short_explanation": "The embracing of internet, mobile devices, and content belongs to earlier waves of the digital revolution. The **Third Wave** focuses on large-scale **transformation**, unlocking **collective intelligence**, and fundamental business changes, rather than the adoption of basic digital tools.",
-    "long_explanation": "The theory of digital revolution waves suggests a progression: the third wave is characterized by deep transformation, where gamechangers leverage connectivity to unlock collective intelligence (crowdsourcing, open innovation). This stage is far beyond the initial adoption of internet and mobile devices, which characterizes earlier stages of digital maturity."
+    "short_explanation": "The embracing of internet, mobile devices, and content belongs to earlier waves of the digital revolution. The **Third Wave** focuses on large-scale **transformation** and unlocking **collective intelligence**, going beyond the adoption of basic digital tools.",
+    "long_explanation": "The third wave of the digital revolution is characterized by deep transformation where gamechangers leverage connectivity to unlock collective intelligence (e.g., crowdsourcing, open innovation). This stage is far beyond the initial adoption of internet and mobile devices, which characterizes earlier stages of digital maturity. The reference to the industrial age (medicines, aircraft, railways) refers to a different historical epoch of revolutionary waves."
   },
   {
     "id": 28,
@@ -425,8 +425,8 @@
     "tema": "Strategic Vision and Purpose",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "This aligns with Simon Sinek’s Golden Circle concept (Why, How, What) and the 'Purpose' P of Hyper-Relevance.",
-    "short_explanation": "This is **True**. Effective strategy, especially in the Era of Relevance, must begin with defining the **Purpose** (the 'Why' of the Golden Circle), which represents the cause or belief the company addresses, going beyond mere profit generation.",
-    "long_explanation": "Strategy should start with the 'Why,' focusing on the company's purpose, cause, or belief. This concept is central to the Golden Circle model (What, How, Why). Articulating a strong purpose is essential for Strategic Relevance, forming the first and most critical 'P' (Purpose) in the 5 P’s of Hyper-Relevance, where customers feel the company shares and advances their values."
+    "short_explanation": "This is **True**. Effective strategy must begin with defining the **Purpose** (the 'Why' of the Golden Circle), which represents the cause or belief the company addresses, going beyond mere profit generation.",
+    "long_explanation": "Strategy should start with the 'Why', focusing on the company's purpose, cause, or belief, as articulated in the Golden Circle model (What, How, Why). Articulating a strong purpose is essential for Strategic Relevance, forming the first and most critical 'P' (Purpose) in the 5 P’s of Hyper-Relevance, where customers feel the company shares and advances their values."
   },
   {
     "id": 29,
@@ -439,8 +439,8 @@
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "While engagement is highly beneficial, like any strategic activity, it requires management and may not guarantee better results if poorly implemented or if other factors are weak.",
-    "short_explanation": "This is **True**. While engagement generally contributes positively, its impact is mediated by other factors (e.g., poor leadership, lack of trust). High engagement *contributes* to performance through positive emotions and behavioral intentions, but is not an absolute guarantee of improved firm performance.",
-    "long_explanation": "Customer engagement contributes to firm performance through positive emotions, satisfaction, behavioral intentions, and word-of-mouth. However, the sources note that engagement does not *always* guarantee improved firm performance, suggesting external factors (such as poor leader-ship, which leads to employee disengagement and counterproductive actions) can undermine the potential benefits."
+    "short_explanation": "This is **True**. While engagement generally contributes positively, its impact is mediated by other factors (e.g., poor leadership, lack of trust). High engagement contributes to performance through behavioral intentions, but is not an absolute guarantee.",
+    "long_explanation": "Customer engagement contributes to firm performance through positive emotions, satisfaction, behavioral intentions, and word-of-mouth. However, the sources note that engagement does not always lead to *improved* firm performance, suggesting external factors (such as poor leadership or organizational inertia) can undermine the potential benefits."
   },
   {
     "id": 30,
@@ -454,9 +454,9 @@
     "resposta_correta": "The value derived from the appreciation of the offering.",
     "tema": "Value Proposition",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Think about value that comes from the *internal* enjoyment or *perception* of the product (Extrinsic) versus the *external* results from using it (Intrinsic).",
+    "hint": "Think about value that comes from the internal enjoyment or perception of the product (Extrinsic) versus the external results from using it (Intrinsic).",
     "short_explanation": "Extrinsic value is the value derived from the emotional and psychological appreciation of the offering (how the customer feels about it). This contrasts with intrinsic value, which comes from the practical deployment or function of the offering.",
-    "long_explanation": "While the Value Proposition Canvas focuses on customer jobs, pains, and gains, value can be categorized. Extrinsic value focuses on the intangible, emotional, or psychological benefits derived from the appreciation or perceived status of the offering. For example, the pride (one of the 5 P's) felt from using a product is a form of extrinsic value."
+    "long_explanation": "Extrinsic value focuses on the intangible, emotional, or psychological benefits derived from the appreciation or perceived status of the offering. This is related to factors like Pride (one of the 5 P's of Hyper-Relevance), where customers feel proud and inspired to use the company’s products and services. Intrinsic value relates more to the functional deployment."
   },
   {
     "id": 31,
@@ -469,8 +469,8 @@
     "tema": "Types of Innovation (Business Model)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Network innovation is a separate dimension of innovation. Revenue innovation relates to money generation.",
-    "short_explanation": "This is **False**. Revenue model innovation is about changing how the company generates income (e.g., subscription models). Changing networks (with employees, suppliers, etc.) is specifically defined as **Network Innovation**, which is another type of innovation.",
-    "long_explanation": "While both Revenue Model innovation and Network Innovation fall under the broader umbrella of Business Model Innovation, they are distinct concepts. Revenue model innovation addresses how a company captures value (pricing, subscription, etc.), whereas Network innovation focuses on external partnerships and connections to enhance the business ecosystem. The four types of innovation are Vision, Business Model, Product/Service, and Marketing."
+    "short_explanation": "This is **False**. Revenue model innovation is about changing how the company generates income. Changing networks (with employees, suppliers, etc.) is specifically defined as **Network Innovation**, which is a distinct element within Business Model Innovation.",
+    "long_explanation": "While both Revenue Model innovation and Network Innovation fall under the broader umbrella of Business Model Innovation, they are distinct. Revenue model innovation addresses how a company captures value (pricing, subscription, etc.), whereas Network innovation focuses on external partnerships and connections (suppliers, customers, employees) to enhance the business ecosystem."
   },
   {
     "id": 32,
@@ -484,7 +484,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Innovation often requires users to adopt new habits (like using a new app or device), which is a significant barrier to adoption and success.",
     "short_explanation": "This is **True**. Adopting new innovations often requires users to change established habits, attitudes, or expectations, posing a psychological challenge for individuals. This resistance to behavioral change is a major hurdle for new products.",
-    "long_explanation": "One of the fundamental challenges of innovation is overcoming individual and organizational inertia. Changing behavior is a major challenge for innovation because successful innovations often require customers to adopt new routines, attitudes, or even identities. This is also related to the psychological challenges, such as the 'fear of change,' which is considered the biggest challenge to business model innovation."
+    "long_explanation": "Innovation success requires overcoming individual and organizational inertia. Changing behavior is a major challenge because successful innovations often require customers to adopt new routines, attitudes, or identities. This is compounded by psychological barriers, such as the 'fear of change,' which is considered the biggest challenge to business model innovation."
   },
   {
     "id": 33,
@@ -514,7 +514,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Business models are usually assessed at structural organizational levels, from the grand vision (Abstract/Corporate) down to the operational unit.",
     "short_explanation": "The recognized levels of a business model are Abstract, Business Unit, and Corporate levels. **Performance level** is a measurement of success, not a structural level of the business model itself.",
-    "long_explanation": "Understanding the levels of the business model is key to Business Model Innovation. Innovation can occur at the Corporate (organizational structure), Business Unit (specific offering or operation), or Abstract level (conceptual design/value proposition). 'Performance level' relates to metrics (e.g., market share, profitability) used to evaluate the success of the model, not the structural representation of the model itself."
+    "long_explanation": "Business Model Innovation can occur at various structural levels: the Corporate (organizational structure), the Business Unit (specific offering or operation), or the Abstract level (conceptual design/value proposition). 'Performance level' relates to metrics (e.g., market share, profitability) used to evaluate the success of the model, not the structural representation of the model itself."
   },
   {
     "id": 35,
@@ -530,7 +530,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Zara's advantage is based on its speed (four weeks), which is achieved by optimizing internal mechanisms, supply chain, and manufacturing flow.",
     "short_explanation": "Zara's competitive advantage lies in its efficient internal operations, particularly its short lead times and responsive supply chain. This optimization of internal flows to enhance speed and responsiveness is characteristic of **Process Innovation**.",
-    "long_explanation": "Process innovation involves finding new ways to organize and optimize internal capabilities (e.g., manufacturing, supply chain, delivery). By drastically reducing the time required for design-to-retail (four weeks), Zara implements a highly effective process innovation, enabling it to respond rapidly to emerging fashion trends. This is critical for survival in the competitive environment of the 21st century."
+    "long_explanation": "Process innovation involves finding new ways to organize and optimize internal capabilities (e.g., manufacturing, supply chain, delivery). By drastically reducing the time required for design-to-retail (four weeks), Zara implements a highly effective process innovation. This quick, market-responsive process is essential for strategic success in the competitive environment of the 21st century."
   },
   {
     "id": 36,
@@ -543,7 +543,7 @@
     "tema": "Types of Innovation (Business Model)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Despite technical and financial hurdles, human resistance (inertia, fear, adherence to old models) is the hardest barrier to break.",
-    "short_explanation": "This is **True**. Although structural and financial hurdles exist, the biggest challenges to radical change, such as Business Model Innovation, are psychological, stemming from internal resistance, fear of failure, and the difficulty of changing established behavior.",
+    "short_explanation": "This is **True**. Although structural and financial hurdles exist, the biggest challenges to radical change, such as Business Model Innovation, are **psychological**, stemming from internal resistance, fear of failure, and the difficulty of changing established behavior.",
     "long_explanation": "Implementing Business Model Innovation often requires challenging long-held beliefs, cannibalizing existing successful practices, and demanding changes in behavior across the organization. Because fundamental change is perceived as risky and uncomfortable, the psychological barriers—such as the 'fear of change'—are consistently cited as the greatest obstacles to innovation."
   },
   {
@@ -558,7 +558,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Value Innovation requires simultaneous differentiation and cost reduction. The differentiation part comes from new, unique elements.",
     "short_explanation": "This is **True**. Value Innovation, the cornerstone of Blue Ocean Strategy, is achieved by creating value for the customer (differentiation) while reducing cost. The differentiation component involves offering unique, new elements that the industry has never provided.",
-    "long_explanation": "Value Innovation is the simultaneous pursuit of differentiation and low cost, breaking the value-cost trade-off. To enhance buyer value and create uncontested market space, the company must identify and offer new, unique elements (Raise and Create quadrants of the ERRC grid) that elevate the value proposition beyond current industry standards. If the innovation only matches current industry standards, it remains in the Red Ocean."
+    "long_explanation": "Value Innovation is the simultaneous pursuit of differentiation and low cost, breaking the value-cost trade-off. To enhance buyer value and create uncontested market space, the company must identify and offer new, unique elements (the Raise and Create quadrants of the ERRC grid) that elevate the value proposition beyond current industry standards. If the innovation only matches current industry standards, it remains in the Red Ocean."
   },
   {
     "id": 38,
@@ -574,7 +574,7 @@
     "tema": "Value Proposition and Customer-Centric Innovation",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "If the Jobs/Pains/Gains differ between segments (e.g., Uber drivers vs. riders), the solutions (Value Map: Pain Relievers/Gain Creators) must also be tailored to achieve 'Fit'.",
-    "short_explanation": "Different customer segments (e.g., Uber drivers and riders) have distinct needs, jobs, pains, and gains. To achieve 'Fit'—the key goal of the Canvas—you need to tailor the value map (products, gain creators, pain relievers) specifically to each customer profile.",
+    "short_explanation": "Different customer segments (e.g., Uber drivers and riders) have distinct needs, jobs, pains, and gains. To achieve 'Fit'—the key goal of the Canvas—you need to tailor the value map (solutions) specifically to each customer profile.",
     "long_explanation": "The Value Proposition Canvas requires achieving 'Fit' between what the customer wants (Customer Profile) and what the company offers (Value Map). Since different segments (like Uber drivers seeking income vs. users seeking transport) have inherently different pain points and gains, a single, generalized Value Map is insufficient. Using a tailored Value Map for each distinct Customer Profile ensures that the products and services truly address the unique needs of that segment."
   },
   {
@@ -590,9 +590,9 @@
     "resposta_correta": "Product type",
     "tema": "Value Proposition and Product Hierarchy",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "The product line is the *group* of related products. The next level down classifies the specific variations *within* that group.",
+    "hint": "The product line is the group of related products. The next level down classifies the specific variations within that group.",
     "short_explanation": "Product hierarchy ranges from the fundamental 'Product Need' down to the 'Product Unit' (specific item). The **Product Type** level classifies the different variations (e.g., flavors, sizes) that exist within a broader Product Line.",
-    "long_explanation": "The product hierarchy organizes products by their components and logical structure, moving from abstract needs to concrete items. The hierarchy levels typically include Product Need (the fundamental problem solved), Product Class (broad category), Product Line (a group of closely related products), and **Product Type** (specific variants within a line). Understanding this hierarchy is essential for defining the scope of Product/Service innovation."
+    "long_explanation": "The product hierarchy organizes products by their components and logical structure. The hierarchy levels typically include Product Need (the fundamental problem solved), Product Class (broad category), Product Line (a group of closely related products), and **Product Type** (specific variants within a line). Understanding this hierarchy is essential for defining the scope of Product/Service innovation."
   },
   {
     "id": 40,
@@ -607,9 +607,9 @@
     "resposta_correta": "\"Futurism\" is a not a consumer trend, therefore it is not included in this radar",
     "tema": "Expectation Economy and Trends (Trend Radar)",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "The Trend Radar is used exclusively for *Consumer Trends*. Futurism, like urbanization or climate change, is a non-consumer trend (a Driver of Change).",
-    "short_explanation": "This is correct because the Consumer Trend Radar is a tool designed to map and prioritize **consumer trends**. 'Futurism' (along with macro trends like urbanization, climate change, or political shifts) is categorized as a **Non-Consumer Trend** or a **Driver of Change**, not a consumer trend itself.",
-    "long_explanation": "The Consumer Trend Radar prioritizes and visualizes the application of consumer trends. Non-consumer trends, such as 'Futurism' (related to technology, economics, or politics), are part of the 'Drivers of Change' element that *shape* consumer trends, but they are not the manifestations of human needs that consumer trends track. The distinction is critical: consumer trends emerge from the tension created by these drivers, basic needs, and innovations [48–49]."
+    "hint": "The Trend Radar is used exclusively for Consumer Trends. Futurism, like urbanization or climate change, is a non-consumer trend (a Driver of Change).",
+    "short_explanation": "This is correct because the Consumer Trend Radar is designed to map and prioritize **consumer trends**. 'Futurism' is categorized as a **Non-Consumer Trend** or a **Driver of Change** (Shift), not a consumer trend itself.",
+    "long_explanation": "Non-consumer trends, such as 'Futurism' (related to technology, economics, or politics), are part of the 'Drivers of Change' element that *shape* consumer trends, but they are not the manifestations of human needs that consumer trends track. The Consumer Trend Radar prioritizes and visualizes the application of consumer trends; the distinction between consumer trends and external drivers is critical for effective trend-driven analysis."
   },
   {
     "id": 41,
@@ -626,7 +626,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "YellowTail's success in the Blue Ocean context was achieved by eliminating traditional wine elements and focusing only on the factors that truly mattered to new buyers.",
     "short_explanation": "Yellowtail succeeded by applying the Blue Ocean methodology to redefine the wine market. They focused on identifying and optimizing the **Critical Success Factors** (CSFs) for non-wine drinkers, minimizing or eliminating traditional, unnecessary factors.",
-    "long_explanation": "The Yellowtail case is a classic example of Blue Ocean Strategy. Instead of competing on traditional wine metrics (like aging, pedigree, or complex marketing), Yellowtail focused on CSFs like ease of drinking and simple branding, thereby creating a new, uncontested market space for wine (Value Innovation). This approach aligns cost reduction with value creation by only focusing on what truly provides utility to the buyer."
+    "long_explanation": "The Yellowtail case is a classic example of Blue Ocean Strategy and Value Innovation. Instead of competing on traditional industry factors (like aging or complex pedigree), Yellowtail eliminated or reduced unnecessary elements and focused only on the **Critical Success Factors** (CSFs)—such as ease of drinking and simple branding—that created new utility for non-wine drinkers. This approach aligns cost reduction with value creation."
   },
   {
     "id": 42,
@@ -641,9 +641,9 @@
     "resposta_correta": "All the phrases are wrong.",
     "tema": "Expectation Economy and Trends (Consumer Trend Canvas)",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "The Consumer Trend Canvas (CTC) is a versatile tool for *generating* multiple ideas and analyzing macro *Shifts*. The right side is for *Application*, not core concept understanding.",
-    "short_explanation": "All options are incorrect: The CTC is designed to generate multiple innovation ideas. 'Shifts' are macro, long-term changes. 'Inspiration' should come from diverse businesses (not just direct competitors). The right side of the canvas is for **Application** (target, innovation), while the left side is for **Analysis** (needs, drivers).",
-    "long_explanation": "The Consumer Trend Canvas (CTC) is a tool for trend-driven ideation that divides the process into Analysis (left side) and Application (right side). The incorrect statements reflect common misunderstandings: CTC helps generate *many* innovations; *Shifts* are long-term macro changes, often spanning years or decades; *Inspiration* should be wide-ranging to facilitate Expectation Transfer and tap collective intelligence; and the *right side* (Apply) is for defining the target and the innovation itself, not understanding core concepts."
+    "hint": "The Consumer Trend Canvas (CTC) is a versatile tool for generating multiple ideas and analyzing macro Shifts. The right side is for Application, not core concept understanding.",
+    "short_explanation": "All options are incorrect: The CTC is designed to generate multiple innovation ideas. 'Shifts' are macro, long-term changes. 'Inspiration' should come from diverse businesses (not just direct competitors). The right side of the canvas is for **Application**, while the left side is for **Analysis**.",
+    "long_explanation": "The Consumer Trend Canvas (CTC) is divided into Analysis (left side: needs, drivers) and Application (right side: target, innovation). The CTC encourages generating multiple innovation ideas, not just one. Shifts are long-term macro changes, often playing out over decades. Furthermore, Inspiration should be wide-ranging to facilitate Expectation Transfer, meaning successful innovations by competitors or non-competitors should be studied, not discarded."
   },
   {
     "id": 43,
@@ -659,8 +659,8 @@
     "tema": "Strategic Vision and Purpose (Golden Circle)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The Golden Circle emphasizes starting with the company's purpose, then moving outward to execution and product.",
-    "short_explanation": "The Golden Circle, developed by Simon Sinek, consists of the three questions: **Why** (Purpose/Belief), **How** (Process/Competencies), and **What** (Product/Offering). Successful companies communicate from the inside out (Why to What).",
-    "long_explanation": "The Golden Circle helps companies become more inspiring and strategically coherent. The 'Why' (Purpose) defines the cause or belief, forming the starting point for effective strategy. The 'How' defines the distinct processes or guiding principles, and the 'What' is the final product or service. This framework underscores the importance of the 'Purpose' P in the Era of Relevance."
+    "short_explanation": "The Golden Circle consists of the three questions: **Why** (Purpose/Belief), **How** (Process/Competencies), and **What** (Product/Offering). Successful companies communicate from the inside out (Why to What).",
+    "long_explanation": "The Golden Circle, a concept by Simon Sinek, helps companies become more inspiring and strategically coherent. The 'Why' (Purpose) defines the cause or belief, forming the starting point for effective strategy. The 'How' defines the distinct processes or guiding principles, and the 'What' is the final product or service. This framework reinforces the importance of Purpose in the Era of Relevance."
   },
   {
     "id": 44,
@@ -677,7 +677,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "This term describes the successful alignment where your offering perfectly addresses the customer's pains and gains.",
     "short_explanation": "The primary goal of the Value Proposition Canvas is to achieve **Fit** between the offerings described in the Value Map and the needs defined in the Customer Profile (Jobs, Pains, Gains). Achieving this alignment is critical for market success.",
-    "long_explanation": "The Value Proposition Canvas helps avoid the common pitfall of creating products no one wants. 'Fit' means the Gain Creators and Pain Relievers in the Value Map truly resonate with the Customer's desired Gains and existing Pains, respectively. A strong fit confirms that the company is addressing genuine needs and wants in a deeply empathetic way, aligning with Customer-Centered Innovation."
+    "long_explanation": "The Value Proposition Canvas helps avoid the common pitfall of creating products no one wants. **Fit** is achieved when the Gain Creators and Pain Relievers in the Value Map truly resonate with the Customer's desired Gains and existing Pains, respectively. A strong fit confirms that the company is addressing genuine needs and wants in a deeply empathetic way, aligning with Customer-Centered Innovation."
   },
   {
     "id": 45,
@@ -692,9 +692,9 @@
     "resposta_correta": "None of the above",
     "tema": "Strategic Relevance and E² Design (Era of Relevance)",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "The HBR article stresses that Relevance is a profound, strategic, and multidimensional concept that grants pricing power. The 4 Ps listed in the options are only *part* of the solution, missing Personalization.",
+    "hint": "The HBR article stresses that Relevance is a profound, strategic, and multidimensional concept that grants pricing power. The 4 Ps listed in the options are only part of the solution, missing Personalization.",
     "short_explanation": "The correct definition is not listed among the options. Relevance is defined as the profound degree to which a brand connects with customers based on their values and psychological needs (the 5 P's framework, including Personalization), allowing the brand to be chosen repeatedly and command a premium.",
-    "long_explanation": "The Era of Relevance supersedes the focus on Loyalty. Relevance, in its entirety, is achieved by becoming a 'living business' that constantly evolves and offers customers 'something more than a product'. While Purpose, Pride, Partnership, and Protection are four components, the term 'Relevance' encompasses the profound strategic goal of achieving this degree of connection, particularly leveraging **Personalization** as the multiplier."
+    "long_explanation": "The Era of Relevance supersedes the focus on Loyalty. Relevance is achieved by becoming a 'living business' that constantly evolves to offer customers 'something more than a product'. This is measured through the 5 P's framework (Purpose, Pride, Partnership, Protection, Personalization), which grants strategic value and grants pricing power."
   },
   {
     "id": 46,
@@ -710,8 +710,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy (Competition)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Budget Competition means competing for the money of the same consumers. People might choose one entertainment expense over another (e.g., fast food vs. a movie rental).",
-    "short_explanation": "Budget Competition is defined as companies competing for the customer's limited money. A person's choice to spend money on fast food (Burger King) might compete directly with their decision to spend money on streaming entertainment (Netflix/Hulu), as both are considered discretionary spending.",
-    "long_explanation": "The competition levels move from narrow (Target Segment/Brand competition) to broad (Generic/Budget Competition). Budget Competition is the broadest level, encompassing any company vying for the same discretionary consumer income. Therefore, Burger King needs to monitor trends in any sector that might absorb the customer's limited entertainment or spending budget, such as streaming services."
+    "short_explanation": "Budget Competition is the broadest competition level, encompassing companies competing for the customer's limited discretionary income. A person's choice to spend money on fast food (Burger King) might directly compete with their decision to spend money on streaming entertainment, as both are discretionary expenses.",
+    "long_explanation": "The hierarchy of competition levels shows that **Budget Competition** is the broadest category, where companies compete for the money of the same consumers, regardless of the product category. Therefore, Burger King needs to monitor trends in any sector that might absorb the customer's limited entertainment or discretionary budget, such as streaming services or other leisure activities."
   },
   {
     "id": 47,
@@ -727,8 +727,8 @@
     "tema": "Expectation Economy and Trends (Consumer Trend Canvas)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Expectation Transfer shows that successful innovations, even by competitors, must be studied because they immediately raise customer expectations across all sectors.",
-    "short_explanation": "This option is incorrect because successful innovations made by **competing companies** must *not* be discarded. They are vital sources of **Inspiration** and demonstrate the successful application of the trend, acting as a catalyst for expectation transfer across markets.",
-    "long_explanation": "The Consumer Trend Canvas (CTC) requires gathering Inspiration from diverse businesses (including competing ones). The premise of the Expectation Economy is that 'The Best' in one industry raises customer expectations in all others. Analyzing competitors' innovations helps identify emerging expectations and understand how the trend is playing out, providing crucial insight for the Analysis phase of the CTC. Therefore, discarding competitor innovations is counter-productive to trend-driven innovation."
+    "short_explanation": "This option is incorrect because successful innovations made by competing companies must not be discarded. They are vital sources of **Inspiration** and demonstrate the successful application of the trend, acting as a catalyst for expectation transfer across markets.",
+    "long_explanation": "The Consumer Trend Canvas (CTC) requires gathering Inspiration from diverse businesses (including competing ones). The premise of the Expectation Economy is that 'The Best' in one industry raises customer expectations in all others (Expectation Transfer). Analyzing competitors' innovations helps identify emerging expectations and understand how the trend is playing out, providing crucial insight for the Analysis phase of the CTC."
   },
   {
     "id": 48,
@@ -743,8 +743,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "The Red Ocean is the conventional, bloody struggle for dominance in a defined industry. Its core characteristic is fighting for the known market.",
-    "short_explanation": "Red Ocean Strategy focuses on fighting for market share in **existing market spaces** where competition is fierce (cutthroat competition). Creating new demand and breaking the value-cost trade-off are features of Blue Ocean Strategy.",
-    "long_explanation": "Red Ocean strategies take place in known, existing markets. Competition is intense, products are commodities, and the goal is to beat rivals to exploit existing demand. Companies that adopt a Blue Ocean Strategy seek to move beyond this zero-sum game by creating uncontested market space."
+    "short_explanation": "Red Ocean Strategy focuses on fighting for market share in **existing market spaces** where competition is fierce. Creating new demand and breaking the value-cost trade-off are features of Blue Ocean Strategy.",
+    "long_explanation": "Red Ocean strategies take place in known, existing markets. Competition is intense, and the primary goal is to exploit existing demand and beat rivals. This is in direct contrast to Blue Ocean Strategy, which aims to create uncontested market space and make the competition irrelevant."
   },
   {
     "id": 49,
@@ -757,8 +757,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Remember the three tiers of non-customers. The third tier represents the deepest pool of untapped demand, those furthest from your industry.",
-    "short_explanation": "This is **False**. The **second tier** consists of people who refuse to use the industry’s offerings. The **third tier** are those who have never considered the market's offerings, representing the deepest non-customers.",
-    "long_explanation": "Blue Ocean Strategy defines three tiers of non-customers:\n*   Tier 1: Soon-to-be non-customers (minimum users).\n*   Tier 2: Refusing non-customers (conscious rejection of the industry).\n*   Tier 3: Unexplored non-customers (never considered it). Focusing on Tier 3 offers the greatest potential for creating a Blue Ocean by capturing demand that has historically been non-existent for the industry."
+    "short_explanation": "This is **False**. The **second tier** consists of people who refuse to use the industry’s offerings. The **third tier** are those who have **never considered** the market's offerings, representing the deepest non-customers.",
+    "long_explanation": "The Blue Ocean framework identifies three tiers of non-customers: Tier 1 (minimal users), Tier 2 (refusing non-customers, conscious rejection), and Tier 3 (unexplored non-customers, never considered it). Targeting Tier 3 offers the greatest potential for creating a Blue Ocean by capturing demand that has historically been non-existent for the industry."
   },
   {
     "id": 50,
@@ -774,7 +774,23 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
     "hint": "Behavioral intention (like intending to recommend) is a measure of future customer actions, driven by the current quality of the relationship.",
     "short_explanation": "Behavioral intention (BI) is a direct and important outcome that measures a customer’s future likelihood of action (e.g., repurchase, recommend). BI results directly from high **Customer Engagement**.",
-    "long_explanation": "Customer engagement (CE) generates behavioral outcomes. High CE, fostered by trust and positive emotions, translates into behavioral intentions and word-of-mouth, both of which contribute to long-term firm performance. Trust and Firm Performance are related but not the *direct* driver of the intention; CE is the causal link."
+    "long_explanation": "Customer engagement (CE) acts as the bridge to behavioral outcomes. High CE, fostered by inputs like trust and positive emotions, translates into behavioral intentions and word-of-mouth. These intentions are crucial because they translate the customer's positive experience into quantifiable firm performance, whereas Trust is an input and Firm Performance is the overall result."
+  },
+  {
+    "id": 51,
+    "pergunta": "When crafting a value proposition, which element is the most critical to consider?",
+    "opcoes": [
+      "Customer pains",
+      "Customer gains",
+      "Customer jobs",
+      "All of the above"
+    ],
+    "resposta_correta": "All of the above",
+    "tema": "Value Proposition and Customer-Centric Innovation",
+    "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
+    "hint": "Think about the three core areas of the Customer Profile half of the Value Proposition Canvas. The goal is to achieve 'Fit' with the Value Map.",
+    "short_explanation": "To create a strong value proposition, the offering must address the critical trifecta of the Customer Profile: Customer Jobs, Pains, and Gains.",
+    "long_explanation": "Understanding all three elements—Customer Jobs, Pains, and Gains—is crucial for formulating an effective Value Proposition. When crafting the Value Proposition Canvas, the goal is to achieve 'Fit' between the customer profile and the value map. Companies often fail because they create products that no one wants; understanding this trifecta increases the chances of success."
   },
   {
     "id": 52,
@@ -789,8 +805,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "Tier 3 represents the largest opportunity, as these non-customers are entirely unaware or uninterested in the industry's existing solutions.",
-    "short_explanation": "Third-tier noncustomers are those furthest from the existing market: people who have **never considered** the industry’s offerings. They are the deepest pool of potential demand for Blue Ocean creations.",
-    "long_explanation": "Tier 3 non-customers are crucial for Blue Ocean Strategy because they hold a vast, untapped market that requires a new value curve to be successfully converted. Tier 1 are near-customers (minimal users), and Tier 2 are those consciously refusing the current offerings. Targeting Tier 3 requires understanding the basic needs that keep them away from the industry completely."
+    "short_explanation": "Third-tier noncustomers are the most distant from the market—those who have **never considered** the industry's offerings. Converting this vast untapped demand is key to creating a Blue Ocean.",
+    "long_explanation": "The three tiers of non-customers are categorized by their distance from the market. Tier 3 non-customers are crucial for Blue Ocean Strategy because they hold a vast, untapped market that requires a new value curve (Value Innovation) to be successfully converted. Tier 1 are near-customers (minimal users), and Tier 2 are those consciously refusing the current offerings."
   },
   {
     "id": 53,
@@ -805,8 +821,8 @@
     "tema": "Hyper-Relevance and E² Design",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The 5 Ps framework is a direct challenge to the traditional '4 Ps' of marketing (Product, Price, Place, Promotion).",
-    "short_explanation": "The 5 P's are Purpose, Pride, Partnership, Protection, and Personalization. **Product** is one of the original '4 P’s' of marketing (Product, Price, Place, Promotion) which the new framework seeks to challenge and replace as the core focus of modern relevance.",
-    "long_explanation": "The 5 P's framework serves as a comprehensive test of strategic relevance. The four core P's (Purpose, Pride, Partnership, Protection) extend from Maslow's hierarchy of needs, and the fifth, Personalization, acts as a multiplier. By focusing on these five dimensions, companies move beyond merely offering a competitive *product* to creating a deeply relevant *experience*."
+    "short_explanation": "The 5 P's are Purpose, Pride, Partnership, Protection, and Personalization. **Product** is one of the original '4 P’s' of marketing, which the new framework seeks to challenge and replace as the core focus of modern relevance.",
+    "long_explanation": "The 5 P's framework serves as a comprehensive test of strategic relevance. The five elements—Purpose, Pride, Partnership, Protection, and Personalization—extend from basic psychological needs to self-actualization, with Personalization acting as the multiplier. By focusing on these dimensions, companies move beyond merely offering a competitive *product* to creating a deeply relevant *experience*."
   },
   {
     "id": 54,
@@ -820,9 +836,9 @@
     "resposta_correta": "Consumer Engagement",
     "tema": "Types of Innovation",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Engagement is an *outcome* or *goal* of the new marketing era (E² Design), not a category of strategic innovation itself. Innovation categories are functional business dimensions.",
-    "short_explanation": "The four types of innovation are Vision, Business Model, Product/Service, and Marketing. **Consumer Engagement** is a key outcome of the Era of Relevance (E² Design), but it is not listed as a distinct category of innovation.",
-    "long_explanation": "The four dimensions of innovation provide a framework for trend analysis across a company. While achieving Consumer Engagement is a fundamental goal of strategic relevance, it is driven by innovations implemented across the four types (e.g., a Product/Service innovation that provides a unique experience, or a Marketing innovation that reflects a brand's Purpose)."
+    "hint": "Engagement is an outcome or goal of the new marketing era (E² Design), not a category of strategic innovation itself. Innovation categories are functional business dimensions.",
+    "short_explanation": "The four types of innovation are Vision, Business Model, Product/Service, and Marketing. **Consumer Engagement** is a key outcome or goal of the Era of Relevance (E² Design), but it is not listed as a distinct category of innovation.",
+    "long_explanation": "The four types of innovation provide a framework for trend analysis across a company. While achieving Consumer Engagement is a fundamental goal of strategic relevance, it is the *result* of successful innovations implemented across the four types (Vision, Business Model, Product/Service, Marketing). Innovation categories define *how* change is implemented, not the end relational goal."
   },
   {
     "id": 55,
@@ -837,8 +853,8 @@
     "tema": "Strategic Vision and Purpose",
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "Vision provides the 'North Star' for long-term direction (e.g., 10 years), but the strategy (the path) must be adaptable in a dynamic market.",
-    "short_explanation": "A strong strategic vision should articulate aspirations for the years ahead (long-term goals), while acknowledging the need to be open to **iterating on the strategy**. Focusing solely on short-term profitability or immediate positioning contradicts its purpose.",
-    "long_explanation": "The vision provides strategic guidance, defining the desired future position and long-term goals. In the Era of Relevance, a strategy must move from 'Static' to 'Dynamic'. Therefore, the importance of the vision lies in setting a steady, long-term course while maintaining the flexibility to change tactics based on environmental shifts and emerging customer expectations."
+    "short_explanation": "A strong strategic vision should articulate aspirations for the years ahead (long-term goals), while acknowledging the need to be open to **iterating on the strategy**. This ensures relevance in a dynamic market.",
+    "long_explanation": "The vision provides strategic guidance, defining the desired future position and long-term goals. The vision must be strong and articulated for the years ahead (e.g., 10 years). In the Era of Relevance, the strategy must move from 'Static' to 'Dynamic'. Therefore, setting a steady, long-term course while maintaining flexibility to change tactics is essential."
   },
   {
     "id": 56,
@@ -854,7 +870,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "The technique works by asking 'Why?' repeatedly to connect product attributes (low level) to higher levels of personal meaning and values.",
     "short_explanation": "Laddering's core goal is to uncover the basic emotions and deep, value-driven motivations ('reasons behind the reasons') that influence a customer's decision-making. This goes beyond mere product attributes.",
-    "long_explanation": "Laddering is considered an effective tool for revealing deeper customer motivations and values by linking product attributes (low-level focus) to the functional consequences (mid-level) and finally to the personal values or emotions (high-level focus). This deep empathetic understanding is critical for Customer-Centered Innovation."
+    "long_explanation": "Laddering is an effective tool for revealing deeper customer motivations and values by linking product attributes (low-level focus) to personal values or emotions (high-level focus). The technique allows researchers to reach deeper levels of customer understanding and uncover the 'reasons behind the reasons,' which is critical for Customer-Centered Innovation."
   },
   {
     "id": 57,
@@ -870,7 +886,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "Trend-Driven Innovation thrives in the 'tension' between accelerating customer desires and the current capabilities of the market.",
     "short_explanation": "The Expectation Economy is defined by rapidly evolving customer expectations. Trend-driven innovation seeks to identify and resolve the points of **tension** or **gaps** between what customers now want and what is currently being offered by the market.",
-    "long_explanation": "In the Expectation Economy, customer expectations are accelerating constantly. These heightened expectations create 'expectation gaps' or points of tension. Trend-Driven Innovation's success lies in resolving this tension by beating customers’ expectations. Companies that try to lower expectations or maintain traditional offerings will be driven out by the 'survival of the best'."
+    "long_explanation": "In the Expectation Economy, customer expectations are accelerating constantly. These heightened expectations create 'expectation gaps' or points of tension. Trend-Driven Innovation’s success lies in resolving this tension, often by proactively beating customers’ expectations. Companies that fail to address these gaps risk being driven out by the 'survival of the best'."
   },
   {
     "id": 58,
@@ -886,7 +902,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "The Rule of Three describes the inevitable structure of mature markets, typically comprising a leader and two significant challengers, each with different focus areas.",
     "short_explanation": "The Rule of Three posits that mature markets stabilize around **three dominant players**. These usually include a volume-driven generalist (focused on broad market share) and two margin-driven specialists (focused on high-value niches).",
-    "long_explanation": "This framework helps understand market dynamics by identifying three primary dominant players. Firms that fall outside these three dominant positions (the 'ditch dwellers') often struggle due to insufficient scale or differentiation. Specialists are characterized as margin-driven players in this model."
+    "long_explanation": "This framework helps understand market dynamics by identifying three primary dominant players with varying strategies. Specialists are characterized as margin-driven players, differentiating themselves from the high-volume generalist. Firms that fall outside these positions (the 'ditch dwellers') often struggle due to insufficient scale or differentiation."
   },
   {
     "id": 59,
@@ -901,8 +917,8 @@
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
     "hint": "Behavioral intention is the resulting customer action after a strong connection (E² Design) has been built.",
-    "short_explanation": "Behavioral Intention is a measure of the customer's likelihood to perform a desired action (e.g., recommend the brand, repurchase). It is a direct and important positive outcome of high **Customer Engagement**.",
-    "long_explanation": "Customer engagement (CE) acts as the bridge to behavioral outcomes. CE is fostered by inputs (like Satisfaction and Trust) and results in outputs like Word-of-Mouth and **Behavioral Intentions**. These intentions are crucial because they translate the customer's positive experience into quantifiable firm performance."
+    "short_explanation": "Behavioral Intention (BI) is a measure of the customer's likelihood to perform a desired action. It is a direct and important positive outcome of high **Customer Engagement**.",
+    "long_explanation": "Customer engagement (CE) acts as the bridge to behavioral outcomes. High CE, fostered by inputs (like Satisfaction and Trust), translates into outputs like Word-of-Mouth and **Behavioral Intentions**. These intentions are crucial because they translate the customer's positive experience into quantifiable firm performance, demonstrating the strategic value of CE."
   },
   {
     "id": 60,
@@ -916,9 +932,9 @@
     "resposta_correta": "Both A and B",
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Engagement requires both an *internal state* (A) and *external action* (B) to fully influence the company's bottom line.",
-    "short_explanation": "Customer engagement is created through emotional/relational components like **Positive Emotions and Satisfaction**. It contributes to firm performance through the resulting customer actions, such as **Behavioural Intentions and Word-of-Mouth**.",
-    "long_explanation": "Customer engagement operates through a dual channel. On the input side, factors like Positive Emotions and Satisfaction foster the engagement itself. On the output side, high engagement generates valuable results for the company, primarily through positive **Behavioural Intentions** (e.g., increased commitment) and positive **Word-of-Mouth**. Therefore, the entire chain, from emotional input to behavioral output, contributes to firm performance."
+    "hint": "Engagement requires both an internal state (A) and external action (B) to fully influence the company's bottom line.",
+    "short_explanation": "Customer engagement is created through emotional/relational components like **Positive Emotions and Satisfaction** (input). It contributes to firm performance through the resulting customer actions, such as **Behavioural Intentions and Word-of-Mouth** (output).",
+    "long_explanation": "Customer engagement operates through a dual channel. On the input side, factors like Positive Emotions and Satisfaction foster the engagement itself. On the output side, high engagement generates valuable results for the company, primarily through positive **Behavioural Intentions** and positive **Word-of-Mouth**. The entire chain, from emotional input to behavioral output, contributes to firm performance."
   },
   {
     "id": 61,
@@ -932,7 +948,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Emotions are crucial. Engagement is a deep, emotional connection that drives action.",
     "short_explanation": "This is **False**. Positive Emotions, along with Trust and Satisfaction, are core inputs that foster and contribute to the creation of customer engagement. Engagement is fundamentally relational and often driven by feeling.",
-    "long_explanation": "Customer engagement is a result of positive interactions and emotional connections with the brand. For Customer-Centered Innovation, empathy is important because it connects companies **emotionally** with customers. Therefore, cultivating positive emotions is essential because they precede and support the behavioral intentions that drive performance."
+    "long_explanation": "Customer engagement is a result of positive interactions and emotional connections with the brand. Cultivating positive emotions is essential because they precede and support the behavioral intentions that drive performance. This emotional connection is also key to Customer-Centered Innovation (empathy)."
   },
   {
     "id": 62,
@@ -947,8 +963,8 @@
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Which option is an internal strategic activity focused on rivals, rather than an external relational factor focused on the customer?",
-    "short_explanation": "**Competitor analysis** is an external strategic activity (part of the 3 C's framework). It helps define the market space but does not directly foster the *relational bond* with the customer. Satisfaction, Trust, and Positive Emotions are direct relational inputs to engagement.",
-    "long_explanation": "Customer Engagement (CE) is built upon internal customer perceptions and relationships, specifically driven by **Trust**, **Satisfaction**, and Positive Emotions. Competitor Analysis is a component of the '3 C's Strategy' (Customers, Company Competence, Competitors) used to define the market target and competitive positioning, making it a strategic input rather than a direct relational driver of CE."
+    "short_explanation": "**Competitor analysis** is an external strategic activity (part of the 3 C's framework). It helps define the market space but does not directly foster the relational bond with the customer. Satisfaction and Trust are direct relational inputs to engagement. Word-of-mouth is an output.",
+    "long_explanation": "Customer Engagement (CE) is built upon internal customer perceptions and relationships, specifically driven by Trust, Satisfaction, and Positive Emotions. Competitor Analysis is a component of the '3 C's Strategy' (Customers, Company Competence, Competitors) used to define the market target and competitive positioning, making it a strategic input rather than a direct relational driver of CE."
   },
   {
     "id": 63,
@@ -964,7 +980,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Strategy Relevance and E² Design",
     "hint": "The strategy's name implies moving away from the 'red' (bloody, competitive) market toward a 'blue' (open, new) space.",
     "short_explanation": "Blue Ocean Strategy (BOS) aims to find uncovered market spots, creating **uncontested market space** and prioritizing making the competition irrelevant. Competing in existing markets characterizes the Red Ocean.",
-    "long_explanation": "BOS is an approach to create market space where there are no competitors, making the current competition irrelevant. This is achieved through **Value Innovation**, which involves simultaneously pursuing differentiation and low cost (breaking the value-cost trade-off), rather than focusing solely on differentiation (which usually increases costs) or benchmarking rivals."
+    "long_explanation": "BOS is an approach to create market space where there are no competitors. This is achieved through **Value Innovation** (breaking the value-cost trade-off). The core focus is on creating new demand and making competition irrelevant, moving beyond the zero-sum game of the Red Ocean."
   },
   {
     "id": 64,
@@ -980,7 +996,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "To create the largest Blue Ocean, you must target the deepest pool of untapped demand—those who are entirely outside the industry's consideration set.",
     "short_explanation": "Tier 3 noncustomers are the most distant from the market—those who have **never considered** the industry's offerings. Converting this vast untapped demand is key to creating a Blue Ocean.",
-    "long_explanation": "The three tiers of non-customers are categorized by their distance from the market:\n*   Tier 1: Minimal users / Soon-to-be non-customers (occasionally buy).\n*   Tier 2: Refusing non-customers (conscious choice to avoid).\n*   Tier 3: Unexplored non-customers (never considered the industry). Targeting Tier 3 offers the greatest potential for strategic breakthrough."
+    "long_explanation": "The Blue Ocean framework identifies three tiers of non-customers: Tier 1 (minimal users), Tier 2 (refusing non-customers), and Tier 3 (unexplored non-customers). Targeting Tier 3 offers the greatest potential for strategic breakthrough because these non-customers represent completely new demand that has not been addressed by the current market."
   },
   {
     "id": 65,
@@ -994,9 +1010,9 @@
     "resposta_correta": "Aligning cost reduction with creating customer value.",
     "tema": "Blue Ocean vs. Red Ocean Strategy (Value Innovation)",
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
-    "hint": "The main objective is to break the value-cost trade-off, meaning you must achieve *both* differentiation and lower cost simultaneously.",
+    "hint": "The main objective is to break the value-cost trade-off, meaning you must achieve both differentiation and lower cost simultaneously.",
     "short_explanation": "Value innovation, the foundation of Blue Ocean Strategy, is achieved by the simultaneous pursuit of **low cost and differentiation** (utility/value for the customer), thereby breaking the traditional value-cost trade-off.",
-    "long_explanation": "Value Innovation is fundamentally different from traditional competitive strategies. Instead of choosing between being a low-cost producer or a highly differentiated one, Value Innovation seeks to minimize cost (Eliminate/Reduce existing factors) while maximizing utility (Raise/Create new elements). This simultaneous achievement is the source of competitive advantage in a Blue Ocean."
+    "long_explanation": "Value Innovation is the core mechanism of Blue Ocean Strategy. It is fundamentally achieved by aligning cost reduction (Eliminate and Reduce factors) with value creation (Raise and Create new elements). This simultaneous pursuit allows the company to minimize costs while maximizing utility, creating an uncontested market position and enhancing buyer value."
   },
   {
     "id": 66,
@@ -1009,8 +1025,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Strategy Relevance and E² Design",
     "hint": "The core goal of BOS is to create uncontested market space, shifting the focus away from competitors' actions.",
-    "short_explanation": "This is **True**. Blue Ocean Strategy focuses on creating new, uncontested market space, where the goal is to make the existing competition irrelevant, rather than trying to defeat rivals in the existing market.",
-    "long_explanation": "The objective of BOS is to change the boundaries of the industry through Value Innovation. By attracting non-customers and creating new demand, the strategy ensures that the focus remains on the new value curve, not on competitors. Lasting success comes from creating these uncontested spaces, not from battling competitors in the Red Ocean."
+    "short_explanation": "This is **True**. Blue Ocean Strategy focuses on creating new, uncontested market space, where the goal is to make the existing **competition irrelevant**, rather than trying to defeat rivals in the existing market (Red Ocean).",
+    "long_explanation": "The objective of BOS is achieved through Value Innovation, which changes the industry's boundaries and attracts non-customers. By creating a new value curve, the focus shifts entirely to maximizing value for customers in a new market space, making the existing competition's actions and metrics insignificant or irrelevant."
   },
   {
     "id": 67,
@@ -1026,7 +1042,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
     "hint": "Specialists target smaller, specific niches where they can charge a premium, prioritizing profitability per unit over volume.",
     "short_explanation": "In the Rule of Three, product/market specialists focus on high-value niches and are characterized as **Margin-driven players**. They prioritize profit margins over the overall volume of the broad market.",
-    "long_explanation": "The Rule of Three suggests a market equilibrium dominated by three types of players, one of which is the specialist. Specialists achieve their dominance and stability by focusing on specific segments and maintaining high profitability (margin), differentiating them from the high-volume, generalist players. Firms that fail to achieve either volume or margin often become 'ditch dwellers'."
+    "long_explanation": "The Rule of Three suggests a market equilibrium dominated by three players. Specialists achieve their dominance and stability by focusing on specific segments and maintaining high profitability (margin). This differentiates them from the high-volume, generalist players. Firms that fail to achieve either volume or margin often become 'ditch dwellers'."
   },
   {
     "id": 68,
@@ -1045,6 +1061,22 @@
     "long_explanation": "The Rule of Three dictates that firms must achieve a dominant position through scale (volume) or niche focus (margin). 'Ditch dwellers' are those stuck between these successful models, lacking both the high efficiency of the volume leader and the differentiation of the specialists, making them vulnerable and unsustainable in the long term."
   },
   {
+    "id": 69,
+    "pergunta": "What elements are critical to crafting a compelling value proposition?",
+    "opcoes": [
+      "Customer pains",
+      "Customer gains",
+      "Customer jobs",
+      "All of the above"
+    ],
+    "resposta_correta": "All of the above",
+    "tema": "Value Proposition and Customer-Centric Innovation",
+    "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
+    "hint": "Think about the three core areas of the Customer Profile half of the Value Proposition Canvas. The goal is to achieve 'Fit' with the Value Map.",
+    "short_explanation": "To create a strong value proposition, the offering must address the critical trifecta of the Customer Profile: Customer Jobs, Pains, and Gains.",
+    "long_explanation": "Understanding all three elements—Customer Jobs, Pains, and Gains—is crucial for formulating an effective Value Proposition. The main goal of the Value Proposition Canvas is to achieve 'Fit' between the Customer Profile (jobs, pains, gains) and the Value Map (products, pain relievers, gain creators). Achieving this alignment is critical for market success."
+  },
+  {
     "id": 70,
     "pergunta": "Empathy is important in customer-centered innovation because:",
     "opcoes": [
@@ -1058,7 +1090,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "Empathy is the key differentiator between reactive 'customer-led' innovation and proactive 'customer-centered' innovation.",
     "short_explanation": "Empathy is fundamental to Customer-Centered Innovation. It allows organizations to achieve a deeply empathetic understanding, enabling them to connect emotionally with customers and anticipate their unexpressed (and even unasked-for) needs.",
-    "long_explanation": "Customer-Centered Innovation relies heavily on empathy to drive success. By deeply understanding the customer's pains and gains, empathy enables the company to anticipate needs that customers may not even realize they have yet, granting the organization the freedom to make the necessary 'unasked-for leaps forward' that lead to long-term success."
+    "long_explanation": "Customer-Centered Innovation relies heavily on empathy to drive success. By deeply understanding the customer's pains and gains, empathy enables the company to anticipate needs that customers may not even realize they have yet. This strategic foresight grants the organization the freedom to make the necessary 'unasked-for leaps forward' that lead to long-term success."
   },
   {
     "id": 71,
@@ -1070,9 +1102,9 @@
     "resposta_correta": "False",
     "tema": "Customer-Centric Innovation",
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Value Proposition and Trend-Driven Innovation",
-    "hint": "The material strongly advises against relying *only* on 'customer-led' approaches, as they tend to be reactive and incremental.",
+    "hint": "The material strongly advises against relying only on 'customer-led' approaches, as they tend to be reactive and incremental.",
     "short_explanation": "This is **False**. Customer-Led Innovation is viewed as a reactive approach that should generally be avoided because it only follows articulated needs. Customer-Centered Innovation (grounded in empathy) is preferred as it leads to breakthrough innovations and long-term success.",
-    "long_explanation": "Customer-Led Innovation is explicitly labeled as the approach to 'avoid' because it is reactive and often too focused on the explicit demands of the customer, resulting in incremental changes. Customer-Centered Innovation, by contrast, uses deep empathetic understanding to anticipate unexpressed needs, granting the organization the necessary freedom for unexpected leaps that define long-term success."
+    "long_explanation": "Customer-Led Innovation is explicitly labeled as the approach to 'avoid' because it is reactive and often too focused on the explicit demands of the customer, resulting in incremental changes. Customer-Centered Innovation, by contrast, uses deep empathetic understanding to anticipate unexpressed needs, granting the organization the necessary freedom for unexpected leaps."
   },
   {
     "id": 72,
@@ -1102,9 +1134,9 @@
     "resposta_correta": "Trend Forecasting",
     "tema": "Types of Innovation",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Innovation types are areas of business *change* (e.g., product, strategy, communication). Forecasting is a research *process*.",
-    "short_explanation": "The four types of innovation are Vision, Business Model, Product/Service, and Marketing. **Trend Forecasting** is a preparatory activity (the process of predicting trends), not a category of strategic innovation itself.",
-    "long_explanation": "The framework of four types of innovation helps categorize where strategic changes are implemented. Forecasting is an input activity, often involving analyzing macro trends and shifts to inform the company's innovation strategy. The actual innovation occurs when a company changes its Vision, Business Model, Product/Service, or Marketing approach."
+    "hint": "Innovation types are areas of business change (e.g., product, strategy, communication). Forecasting is a research process.",
+    "short_explanation": "The four types of innovation are Vision, Business Model, Product/Service, and Marketing. **Trend Forecasting** is a preparatory or input activity (the process of predicting trends), not a category of strategic innovation itself.",
+    "long_explanation": "The framework of four types of innovation (Vision, Business Model, Product/Service, Marketing) helps categorize where strategic changes are implemented. Forecasting is an input activity, often involving analyzing macro trends and shifts to inform the company's innovation strategy. The actual innovation occurs when a company changes its strategic dimension, not during the forecasting activity itself."
   },
   {
     "id": 74,
@@ -1134,7 +1166,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, MSI - Strategy Relevance and E² Design",
     "hint": "Strategic Innovation characterizes the 'Strategy-Driven Organization,' which operates across the whole system and adapts quickly.",
     "short_explanation": "Strategic innovation (Strategy-Driven Organization) is characterized by a mindset that is **participatory, systemic, flexible**, and proactive (Building the future). This contrasts with traditional innovation, which is often internal, static, and hard.",
-    "long_explanation": "The Strategy-Driven Organization shifts the focus from 'Internal' to 'Systemic' and from 'Static' to 'Dynamic'. Strategic innovation is therefore participatory and systematic, involving all parts of the organization in building the future. Tactical goals (short-term) are only one part of the overall strategy, and relying solely on benchmarking is characteristic of Red Ocean strategies."
+    "long_explanation": "The Strategy-Driven Organization shifts the focus from 'Internal' to **Systemic** and from 'Static' to **Dynamic**. Strategic innovation is therefore participatory and systematic, involving all parts of the organization in building the future. This is essential for maintaining relevance and contrast with the static, centralizing nature of traditional strategy."
   },
   {
     "id": 76,
@@ -1148,9 +1180,9 @@
     "resposta_correta": "Rapidly evolving customer expectations.",
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
-    "hint": "The term Expectation *Economy* suggests an accelerating, competitive environment driven by consumer demands.",
-    "short_explanation": "The Expectation Economy is defined by the **acceleration of customer expectations**, which are **rapidly evolving** due to forces like Transparency Triumph and Creative Destruction. This creates tension because customers are 'almost impossible to please'.",
-    "long_explanation": "The Expectation Economy is an environment where customers are constantly raising their expectations of quality, speed, and personalization. These expectations evolve rapidly due to 'Expectation Transfer,' where high standards set in one industry (e.g., Apple's design) are instantly applied to all others. Resolving the gaps created by these expectations is the central theme of Trend-Driven Innovation."
+    "hint": "The term Expectation Economy suggests an accelerating, competitive environment driven by consumer demands.",
+    "short_explanation": "The Expectation Economy is defined by the **acceleration of customer expectations**, which are **rapidly evolving**. This creates tension because customers are 'almost impossible to please'.",
+    "long_explanation": "The Expectation Economy is an environment where customers are constantly raising their expectations of quality, speed, and personalization. These expectations evolve rapidly due to 'Expectation Transfer', where high standards set in one industry (e.g., Apple) are instantly applied to all others. Resolving the gaps created by these accelerating expectations is the central theme of Trend-Driven Innovation."
   },
   {
     "id": 77,
@@ -1165,8 +1197,8 @@
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Three options represent core customer desires (the three strands of expectation), while one is a company's internal tactical activity.",
-    "short_explanation": "The three strands of customer expectation in the Expectation Economy are rising quality, positive impact, and personal expression. Quality, Transparency, and Personalization are fundamental forces driving these expectations. **Competitor benchmarking** is an internal Red Ocean strategy, not an external driver of rising customer expectations.",
-    "long_explanation": "The Expectation Economy is driven by external forces that escalate customer demands, categorized into three strands: rising quality, positive impact, and personal expression. Quality (due to Transparency Triumph), Transparency, and Personalization are key internal drivers of these rising expectations. Competitor benchmarking is a reactive strategic activity, not a fundamental force pushing *customer* expectations higher."
+    "short_explanation": "The three strands of customer expectation are rising quality, positive impact, and personal expression. Quality (driven by transparency) and Personalization are fundamental forces driving these expectations. **Competitor benchmarking** is an internal, reactive Red Ocean strategy, not an external driver of rising customer expectations.",
+    "long_explanation": "The Expectation Economy is driven by external forces that escalate customer demands, categorized into three strands: rising quality (linked to Transparency Triumph), positive impact, and personal expression. Competitor benchmarking is a reactive strategic activity used by companies to gauge rivals, but it is not a fundamental external force that escalates *customer* expectations globally."
   },
   {
     "id": 78,
@@ -1182,7 +1214,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Remember the three core fundamental elements of a trend and the 'tension' created between them.",
     "short_explanation": "Consumer trends are shaped by all three fundamental elements: **Basic Needs** (unchanging human wants), **Drivers of Change** (Shifts/Triggers), and the resulting **Expectation Gaps** created by new innovations. The interaction between them generates a trend.",
-    "long_explanation": "Trend-Driven Innovation requires identifying the tension created when the three fundamental elements interact:\n1.  Basic Needs (fundamental human wants).\n2.  Drivers of Change (macro Shifts and Triggers).\n3.  Innovations (which create new expectations and gaps).\nUnderstanding all these components is necessary for sensing where customer expectations are headed next."
+    "long_explanation": "Trend-Driven Innovation requires identifying the tension created when the three fundamental elements interact: Basic Needs (fundamental human wants), Drivers of Change (macro Shifts and Triggers), and Innovations (which create new expectations and gaps). Understanding all these components is necessary for sensing where customer expectations are headed next and resolving the tension."
   },
   {
     "id": 79,
@@ -1195,8 +1227,8 @@
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "This is the core definition of a consumer trend: a new form for an old human drive.",
-    "short_explanation": "This is **True**. A consumer trend is defined as a *new manifestation* (in behavior, attitude, or expectation) of a *fundamental human need, want, or desire*. Human needs are timeless, but the ways they are expressed change with drivers of change.",
-    "long_explanation": "Trends are fundamentally rooted in basic human needs (like the desire for safety, connection, or status), which rarely change. However, the way those needs manifest—the specific behaviors, attitudes, and expectations—evolves rapidly due to external 'Drivers of Change' (like technology or economic shifts). Therefore, a trend is the new reflection of an old, persistent need."
+    "short_explanation": "This is **True**. A consumer trend is defined as a *new manifestation* (in behavior, attitude, or expectation) of a *fundamental human need, want, or desire*. Human needs are timeless, but their expression changes with drivers of change.",
+    "long_explanation": "Trends are fundamentally rooted in basic human needs (like the desire for safety or connection), which are enduring. However, the way those needs manifest—the specific behaviors, attitudes, and expectations—evolves rapidly due to external 'Drivers of Change' (like technology or economic shifts). Therefore, a trend is the new reflection of an old, persistent need."
   },
   {
     "id": 80,
@@ -1212,7 +1244,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "Personalization is the multiplicative 'P' in the Hyper-Relevance framework. It works by making the customer feel unique and understood.",
     "short_explanation": "Personalization is the multiplicative component of the 5 P's of Hyper-Relevance. It enhances engagement by ensuring that the experiences, messages, and offers are **tailored to the individual customer's needs, preferences, and context**.",
-    "long_explanation": "Personalization is a key driver in the Era of Relevance. It increases customer engagement by conveying the 'exactly the right message, experience, or offer to customers in exactly the right context'. This tailoring (whether through custom products or personalized deals based on spending habits) allows the company to connect with customers around their specific needs, driving repeat purchases and loyalty."
+    "long_explanation": "Personalization is a key driver in the Era of Relevance. It increases customer engagement by conveying the 'exactly the right message, experience, or offer to customers in exactly the right context'. This tailoring (whether through custom products or personalized deals) allows the company to connect with customers around their specific needs, driving repeat purchases and loyalty."
   },
   {
     "id": 81,
@@ -1225,8 +1257,8 @@
     "tema": "Customer Engagement",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "If loyalty were purely about price, then any competitor could easily steal customers with a lower price. Loyalty is deep and complex (Trust, Emotion, Purpose).",
-    "short_explanation": "This is **False**. Loyalty is primarily fostered by relational factors like **Trust, Satisfaction, and Positive Emotions**, and the brand's profound **Relevance**. While price is important, loyalty is not *purely* driven by it.",
-    "long_explanation": "The core thesis of the Era of Relevance is that in a hyper-competitive, digital market, loyalty is hard to maintain if a company relies purely on factors like competitive pricing. Customers will choose brands most relevant to them, often paying a premium. Loyalty is built through deep engagement, which stems from the customer's overall experience, sense of protection, pride, and shared purpose."
+    "short_explanation": "This is **False**. Loyalty is primarily fostered by relational factors like **Trust, Satisfaction, and Positive Emotions**, and the brand's profound **Relevance**. While price is important, loyalty is not purely driven by it.",
+    "long_explanation": "The core thesis of the Era of Relevance is that in a hyper-competitive, digital market, loyalty is hard to maintain if a company relies purely on competitive pricing. Customers will choose brands most relevant to them, often paying a premium. Loyalty is built through deep engagement, which stems from the customer's overall experience, sense of protection, pride, and shared purpose (the 5 P's)."
   },
   {
     "id": 82,
@@ -1242,7 +1274,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Quiz 2 - Questions (19).pdf",
     "hint": "The strategic vision provides the long-term direction (the North Star) for the organization.",
     "short_explanation": "A strategic vision defines the company's long-term aspirations, primarily to **describe the desired future position** of the company. It must be adaptive (one of the Five Rules of Purpose) and establish long-term goals (not short-term profitability).",
-    "long_explanation": "The purpose of the strategic vision is to set the long-term aspirations for the company's growth and impact. The vision must be strong and articulated for the years ahead. Avoiding adaptation or focusing solely on immediate positioning would make the strategy 'Static' and irrelevant in a dynamic market. The vision must also comply with the 'Five Rules of Purpose,' including being Adaptive and clearly superior to all stakeholders."
+    "long_explanation": "The purpose of the strategic vision is to set the long-term aspirations for the company's growth and impact. The vision must be strong and articulated for the years ahead. Avoiding adaptation or focusing solely on immediate positioning would make the strategy 'Static' and irrelevant. The vision must comply with the 'Five Rules of Purpose,' including being Adaptive and clearly superior to all stakeholders."
   },
   {
     "id": 83,
@@ -1255,8 +1287,8 @@
     "tema": "Types of Innovation (Vision)",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "Vision Innovation is about the fundamental, long-term strategic direction of the company, which affects everything from internal culture to external positioning.",
-    "short_explanation": "This is **False**. Vision Innovation is concerned with the **long-term visions of companies** at the forefront of a trend, encompassing fundamental changes to the overall business purpose, internal strategy (e.g., operational goals), and external positioning. It is not limited to customer-facing aspects.",
-    "long_explanation": "Vision Innovation is one of the four types of innovation. Its main focus is how external shifts manifest in the *long-term visions* of leading companies, which includes creating compelling strategies and defining competitive advantage. While the vision must resonate with customers, it fundamentally defines the company's aspirations and direction as a whole."
+    "short_explanation": "This is **False**. Vision Innovation is concerned with the **long-term strategic visions** of leading companies, encompassing fundamental changes to the overall business purpose, internal strategy, and external positioning. It is not limited to customer-facing aspects.",
+    "long_explanation": "Vision Innovation is one of the four types of innovation. Its main focus is how external shifts manifest in the *long-term visions* of leading companies, which includes creating compelling strategies and defining competitive advantage. Vision fundamentally defines the company's aspirations and direction as a whole, affecting the entire organization, not just the customer interface."
   },
   {
     "id": 84,
@@ -1304,7 +1336,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf, Study Guide",
     "hint": "These are large, external forces shaping the environment over years or decades (Shifts).",
     "short_explanation": "Macro trends like urbanization, aging populations, or climate change are large-scale external forces categorized as **Drivers of Change** (or Shifts). They interact with basic human needs and innovations to create consumer trends.",
-    "long_explanation": "Drivers of Change (Shifts and Triggers) are one of the three fundamental elements that shape trends. Macro trends such as demographic shifts (aging populations) or environmental challenges (climate change) are long-term 'Shifts' that fundamentally alter the context in which basic human needs must be met. Companies must monitor these forces to anticipate future market demands."
+    "long_explanation": "Drivers of Change (Shifts and Triggers) are one of the three fundamental elements that shape trends. Shifts are **long term macro changes** that fundamentally alter the context in which basic human needs must be met, often playing out across years or decades. Companies must monitor these forces to anticipate future market demands."
   },
   {
     "id": 87,
@@ -1344,7 +1376,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The 'secret' to spotting trends and opportunities lies in identifying the imbalance between what customers want and what they are offered.",
     "short_explanation": "The key ingredient of trend-driven innovation is the **tension** created when the three fundamental elements—basic needs, drivers of change, and innovations (emerging expectations)—interact, leading to expectation gaps. Successful innovation resolves this tension.",
-    "long_explanation": "Trend-Driven Innovation is successful when it identifies and resolves the tension (or expectation gap) between what people want (Basic Needs, heightened by Drivers of Change) and what the market currently offers (Innovations). This focus on tension allows companies to proactively beat customer expectations rather than reactively trying to keep up."
+    "long_explanation": "Trend-Driven Innovation is successful when it identifies and resolves the tension (or expectation gap) between what people want (Basic Needs, heightened by Drivers of Change) and what the market currently offers (Innovations). This focus on tension allows companies to proactively beat customer expectations rather than reactively trying to keep up, which is essential in the Expectation Economy."
   },
   {
     "id": 91,
@@ -1356,7 +1388,7 @@
     "resposta_correta": "True",
     "tema": "Blue Ocean vs. Red Ocean Strategy (Value Innovation)",
     "fonte": "Quiz 2 - Questions (87).pdf",
-    "hint": "Value Innovation is the cornerstone of Blue Ocean Strategy; it aims to break the value-cost trade-off by achieving *both* low cost and differentiation.",
+    "hint": "Value Innovation is the cornerstone of Blue Ocean Strategy; it aims to break the value-cost trade-off by achieving both low cost and differentiation.",
     "short_explanation": "This is **True**. Value Innovation is achieved by aligning cost reduction with value creation. If differentiation leads to increased costs, the company remains in the Red Ocean of competition, not achieving Value Innovation.",
     "long_explanation": "Value Innovation's primary objective is to break the traditional Value-Cost Trade-off. It focuses on creating new utility (differentiation) by offering elements the industry has never provided, but *simultaneously* eliminates or reduces factors that drive up costs. The pursuit of differentiation *while* increasing costs is characteristic of traditional differentiation strategies (Red Ocean)."
   },
@@ -1371,7 +1403,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "These three elements create the 'tension' that successful innovation seeks to resolve.",
     "short_explanation": "The three core components are: **Basic Needs** (unchanging human wants), **Drivers of Change** (Shifts and Triggers), and the resulting **Innovations** (which generate emerging customer expectations).",
-    "long_explanation": "The three elements interact to generate the tension that signals a trend. Drivers of Change (macro forces) act upon Basic Needs, while Innovations (new business offerings) attempt to meet those needs, thereby creating new Expectations. Identifying the interaction between these three provides foresight into future market demands."
+    "long_explanation": "The three elements interact to generate the tension that signals a trend. Drivers of Change (macro forces) act upon Basic Needs, while Innovations (new business offerings) attempt to meet those needs, thereby creating new Expectations. Identifying the interaction between these three provides foresight into future market demands and opportunities for Trend-Driven Innovation."
   },
   {
     "id": 93,
@@ -1383,8 +1415,8 @@
     "tema": "Expectation Economy and Trends",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The quality standards set by 'The Best' in one sector (like Apple or Singapore Airlines) immediately influence customer expectations in all others.",
-    "short_explanation": "The challenge is **Expectation Transfer**. Customers evaluate services across silos (e.g., mobile, travel, retail). High performance in one industry immediately raises expectations in others, meaning companies are competing against the 'best' experiences globally, regardless of their sector.",
-    "long_explanation": "Expectation Transfer occurs because customers do not neatly compartmentalize their experiences. Once someone experiences high quality (e.g., in air travel), they expect similar standards (e.g., seamlessness, affordability) in other, unrelated areas like in-car systems or retail. This makes it challenging because companies must compete not just with industry rivals, but with the highest standards set by innovators worldwide."
+    "short_explanation": "The challenge is **Expectation Transfer**. Customers evaluate services across silos (e.g., mobile, travel, retail). High performance in one industry immediately raises expectations in others, meaning companies are competing against the 'best' experiences globally.",
+    "long_explanation": "Expectation Transfer occurs because customers do not neatly compartmentalize their experiences. Once someone experiences high quality in one area (e.g., seamless design), they expect similar standards in unrelated services (e.g., retail or in-car systems). This makes it challenging because companies must compete not just with industry rivals, but with the highest standards set by innovators worldwide."
   },
   {
     "id": 94,
@@ -1397,7 +1429,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "These three strands cover fundamental customer desires related to product performance, social value, and self-identity.",
     "short_explanation": "The three primary strands of customer expectation driving the Expectation Economy are **rising quality** (driven by transparency), **positive impact** (ethical/social value), and **personal expression** (self-actualization/status).",
-    "long_explanation": "These strands define the high demands placed on businesses: **Rising Quality** is driven by transparency and the 'survival of the best'; **Positive Impact** relates to customers desiring that consumption also delivers social or environmental value (e.g., Collaborative Economy, clean slate brands); and **Personal Expression** relates to consumption helping them realize an idealized version of themselves (Self-Actualization)."
+    "long_explanation": "These strands define the high demands placed on businesses. **Rising Quality** is driven by transparency and the 'survival of the best'. **Positive Impact** relates to customers desiring that consumption also delivers social or environmental value (e.g., clean slate brands). **Personal Expression** relates to consumption helping them realize an idealized version of themselves (Self-Actualization)."
   },
   {
     "id": 95,
@@ -1411,7 +1443,7 @@
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "The strategy’s goal is to make the competition irrelevant by creating a new market space.",
     "short_explanation": "This is **False**. Blue Ocean Strategy argues that lasting success comes from **creating uncontested market space** and moving away from battling competitors in the existing (red) ocean.",
-    "long_explanation": "The core tenet of Blue Ocean Strategy is to stop competing head-to-head (Red Ocean) and instead pursue Value Innovation to create new demand. Success is found in finding the spots uncovered by the market, thereby making the existing competition irrelevant. Battling in the Red Ocean typically leads to diminishing profits and market stagnation."
+    "long_explanation": "The core tenet of Blue Ocean Strategy is to stop competing head-to-head (Red Ocean) and instead pursue Value Innovation to create new demand. Success is found in creating uncontested market space, thereby making the existing competition irrelevant. Battling in the Red Ocean typically leads to diminishing profits and market stagnation."
   },
   {
     "id": 96,
@@ -1424,8 +1456,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Quiz 2 - Questions (87).pdf",
     "hint": "BOS is famously associated with specific analytic tools like the Strategy Canvas and the Eliminate-Reduce-Raise-Create (ERRC) Grid.",
-    "short_explanation": "This is **False**. Blue Ocean Strategy explicitly provides a set of analytical tools and frameworks (such as the Strategy Canvas, the Four Actions Framework, and the non-customer tiers analysis) to systematically create and capture new market spaces.",
-    "long_explanation": "Blue Ocean Strategy is a systematic methodology, not just a philosophy. It includes analytic tools like the Strategy Canvas and the Four Actions Framework (ERRC), which challenge companies to rethink the industry's value factors. These frameworks allow companies to move beyond competition and focus on **Value Innovation** (aligning cost reduction with value creation)."
+    "short_explanation": "This is **False**. Blue Ocean Strategy explicitly provides a set of analytical tools and frameworks (such as the Strategy Canvas and the Four Actions Framework) to systematically create and capture new market spaces.",
+    "long_explanation": "Blue Ocean Strategy is a systematic methodology. It includes analytic tools like the Strategy Canvas and the Four Actions Framework (ERRC: Eliminate, Reduce, Raise, Create). These tools challenge companies to rethink the industry's value factors, allowing them to move beyond competition and focus on **Value Innovation** (aligning cost reduction with value creation)."
   },
   {
     "id": 97,
@@ -1450,8 +1482,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "Study Guide, Quiz 2 - Questions (19).pdf",
     "hint": "Red Oceans are bloody and known. You are fighting for market share in a defined, existing arena.",
-    "short_explanation": "A Red Ocean Strategy is characterized by competition in **existing market spaces** where industry boundaries are defined and accepted. This often leads to fierce, cutthroat competition.",
-    "long_explanation": "Red Ocean strategies focus on exploiting existing demand within known industry boundaries. The focus is on traditional competitive advantages (Cost Leadership or Differentiation), which often results in a zero-sum game. Blue Ocean Strategy seeks to escape this competition by creating new market space."
+    "short_explanation": "A Red Ocean Strategy is characterized by **competing in existing market spaces** where industry boundaries are defined and accepted. This often leads to fierce, cutthroat competition.",
+    "long_explanation": "Red Ocean strategies focus on exploiting existing demand within known industry boundaries. The goal is to beat rivals using traditional competitive strategies (Cost Leadership or Differentiation). Blue Ocean Strategy seeks to escape this competition by creating new market space and demand."
   },
   {
     "id": 99,
@@ -1463,8 +1495,8 @@
     "tema": "Blue Ocean vs. Red Ocean Strategy",
     "fonte": "MSI - Strategy Relevance and E² Design",
     "hint": "The goal is irrelevance for rivals, achieved by moving beyond existing competitive boundaries.",
-    "short_explanation": "Blue Ocean Strategy is an approach to create new market space by finding spots uncovered by the market (Value Innovation), creating new demand, and thereby **making competition irrelevant**.",
-    "long_explanation": "Blue Ocean Strategy is founded on the idea of Value Innovation. By identifying non-customers (particularly Tier 3) and creating a new value curve (Yellowtail example), the company establishes an uncontested market space, ensuring long-term success that does not depend on battling rivals."
+    "short_explanation": "Blue Ocean Strategy is an approach to create new market space by finding spots uncovered by the market, creating new demand, and thereby **making competition irrelevant**.",
+    "long_explanation": "Blue Ocean Strategy is founded on the idea of Value Innovation. By identifying non-customers (particularly Tier 3) and creating a new value curve (as seen in the Yellowtail case), the company establishes an uncontested market space, ensuring long-term success that does not depend on battling rivals."
   },
   {
     "id": 100,
@@ -1477,8 +1509,8 @@
     "tema": "Customer-Centric Innovation",
     "fonte": "MSI - Strategy Relevance and E² Design, MSI - Value Proposition and Trend-Driven Innovation",
     "hint": "Empathy is essential for anticipating unexpressed needs and making breakthrough leaps.",
-    "short_explanation": "This is **True**. Customer-Centered Innovation requires a **deeply empathetic understanding** of the customer's needs and wants. This empathy allows the organization the freedom to make truly unexpected, disruptive leaps forward.",
-    "long_explanation": "Customer-Centered Innovation is fundamentally based on empathy, connecting companies emotionally with customers and allowing them to anticipate unexpressed needs. This approach contrasts sharply with the reactive nature of Customer-Led Innovation, which merely follows what customers explicitly ask for. The deep understanding provided by empathy is what leads to long-term market success."
+    "short_explanation": "This is **True**. Customer-Centered Innovation requires a **deeply empathetic understanding** of the customer's needs. This empathy allows the organization the freedom to make truly unexpected, disruptive leaps forward.",
+    "long_explanation": "Customer-Centered Innovation is fundamentally based on empathy, connecting companies emotionally with customers and allowing them to anticipate unexpressed needs. This proactive approach contrasts sharply with the reactive nature of Customer-Led Innovation, which merely follows what customers explicitly ask for. The deep understanding provided by empathy is what leads to long-term market success."
   },
   {
     "id": 101,
@@ -1491,8 +1523,8 @@
     "tema": "Customer-Centric Innovation",
     "fonte": "MSI - Strategy Relevance and E² Design, MSI - Value Proposition and Trend-Driven Innovation",
     "hint": "These 'unasked-for leaps' are innovations customers didn't know they needed (Steve Jobs quote: 'People don’t know what they want until you show it to them').",
-    "short_explanation": "This is **True**. By focusing on deep empathy (instead of explicit requests), Customer-Centered Innovation provides the strategic freedom to pursue groundbreaking, unexpected innovations that ensure long-term success.",
-    "long_explanation": "Customer-Centered Innovation is defined by this strategic freedom. If a company relied only on explicit customer requests (Customer-Led), its innovations would be incremental. By tapping into deeper, unexpressed needs through empathy, the company can introduce revolutionary products or services that customers didn't know they needed, leading to sustained competitive advantage."
+    "short_explanation": "This is **True**. By focusing on deep empathy, Customer-Centered Innovation provides the strategic freedom to pursue groundbreaking, unexpected innovations ('unasked-for leaps') that ensure long-term success.",
+    "long_explanation": "Customer-Centered Innovation is defined by this strategic freedom. If a company relied only on explicit customer requests (Customer-Led), its innovations would be incremental. By tapping into deeper, unexpressed needs through empathy, the company can introduce revolutionary products or services that customers didn't know they wanted, leading to sustained competitive advantage."
   },
   {
     "id": 102,
@@ -1520,7 +1552,7 @@
     "fonte": "MSI - Value Proposition and Trend-Driven Innovation",
     "hint": "Its reactive nature and focus on obvious demands make it less strategically powerful than Customer-Centered approaches.",
     "short_explanation": "This is **True**. Customer-Led Innovation is defined by its reactive nature and being overly explicit about following customer demands, which limits its potential for breakthrough innovation. This approach is generally discouraged in favor of Customer-Centered Innovation.",
-    "long_explanation": "Customer-Led Innovation is criticized for being too self-consciously explicit about placing the customer first, which forces a reactive strategy. This contrasts with Customer-Centered Innovation, which, through empathy, understands deeper customer motivations and is proactive, allowing the organization to define the future rather than simply respond to the present."
+    "long_explanation": "Customer-Led Innovation is criticized for being too self-consciously explicit about placing the customer first, which forces a reactive strategy. This contrasts with Customer-Centered Innovation, which is proactive and uses empathy to understand deeper customer motivations, allowing the organization to define the future rather than simply respond to the present."
   },
   {
     "id": 104,
@@ -1535,7 +1567,7 @@
     "fonte": "MSI - Strategy Relevance and E² Design",
     "hint": "Systemic means the strategy permeates all parts of the organization, moving beyond the isolated internal departments of a Traditional strategy.",
     "short_explanation": "The shift from 'Internal' (where strategy resides only in management or specific departments) to 'Systemic' (where strategy permeates the entire organization) is characteristic of a **Strategy-Driven Organization**.",
-    "long_explanation": "A key difference between a Traditional Strategic Organization and a Strategy-Driven one is the change from 'Internal' to 'Systemic'. 'Systemic' implies that the strategy is participatory, flexible, and integrated across the entire organization (as opposed to being 'Hard' and centrally controlled), aligning with the principles of Strategic Innovation."
+    "long_explanation": "A key difference between a Traditional Strategic Organization and a Strategy-Driven one is the change from 'Internal' to 'Systemic'. 'Systemic' implies that the strategy is participatory, flexible, and integrated across the entire organization, aligning with the principles of Strategic Innovation. This is essential for a business operating in the dynamic Era of Relevance."
   },
   {
     "id": 105,
@@ -1549,8 +1581,8 @@
     "tema": "Strategic Relevance",
     "fonte": "MSI - Strategy Relevance and E² Design",
     "hint": "Dynamic strategies are essential in the Era of Relevance, enabling constant iterative adjustment in response to accelerating customer expectations.",
-    "short_explanation": "The change from a 'Static' (rigid, centralized) strategy to a 'Dynamic' (flexible, constantly iterated) strategy is a core characteristic of the **Strategy-Driven Organization**. This dynamic nature allows the company to proactively 'Build the future'.",
-    "long_explanation": "In the Era of Relevance, relying on a 'Static' strategy is highly risky due to the rapidly evolving market. A Strategy-Driven Organization adopts a 'Dynamic' approach, ensuring the strategy is flexible, constantly iterated, and responsive to macro trends. This is also why a company must articulate a strong long-term vision but remain open to iterating on the strategy."
+    "short_explanation": "The change from a 'Static' (rigid, centralized) strategy to a **'Dynamic'** (flexible, constantly iterated) strategy is a core characteristic of the **Strategy-Driven Organization**. This dynamic nature allows the company to proactively 'Build the future'.",
+    "long_explanation": "In the Era of Relevance, relying on a 'Static' strategy is highly risky due to the rapidly evolving market. A Strategy-Driven Organization adopts a 'Dynamic' approach, ensuring the strategy is flexible, constantly iterated, and responsive to macro trends. This supports the need to articulate a strong long-term vision while being open to iterating on the strategy."
   },
   {
     "id": 106,
@@ -1563,7 +1595,7 @@
     "fonte": "MSI - Strategy Relevance and E² Design",
     "hint": "The 3 Cs are the foundation for defining the Target Offer and Segmentation, balancing internal ability with external market context.",
     "short_explanation": "The '3 C's Strategy Framework' is a fundamental tool for Strategic Relevance. The three elements are: **Customers’ Needs and Desires**, **Company Competence**, and **Competitors**.",
-    "long_explanation": "The 3 C's Framework helps structure a company's strategic positioning by analyzing three key factors: the market (Customers’ Needs), the internal resources (Company Competence), and the competitive environment (Competitors). This analysis guides decisions on the optimal 'Target Offer Segmentation' and ensures that the eventual value proposition leverages core competencies while addressing market gaps."
+    "long_explanation": "The 3 C's Framework helps structure a company's strategic positioning by analyzing three key factors: the market (Customers’ Needs), the internal resources (Company Competence), and the competitive environment (Competitors). This analysis guides decisions on the optimal 'Target Offer Segmentation' and is crucial for creating market space, such as in the Blue Ocean Strategy."
   },
   {
     "id": 107,
@@ -1576,7 +1608,7 @@
     "fonte": "Livro Trend Driven Innovation",
     "hint": "Vision Innovation looks at how macro forces (Shifts) fundamentally change a company’s purpose and desired future position.",
     "short_explanation": "Vision Innovation focuses on **changes in the long-term strategic vision** of leading companies. It asks how macro shifts (Drivers of Change) influence a company's core purpose and desired future positioning.",
-    "long_explanation": "As one of the four types of innovation, Vision Innovation assesses how major societal and technological changes (Shifts) necessitate a re-evaluation of the company’s long-term aspirations. This kind of innovation often results in powerful strategic vision statements (like those of Starbucks or Google) that redefine the business's fundamental 'Why'."
+    "long_explanation": "As one of the four types of innovation, Vision Innovation assesses how major societal and technological changes (Shifts) necessitate a re-evaluation of the company’s long-term aspirations. This kind of innovation often results in powerful strategic vision statements that redefine the business's fundamental 'Why' and competitive advantage."
   },
   {
     "id": 108,
@@ -1588,7 +1620,7 @@
     "tema": "Types of Innovation (Business Model)",
     "fonte": "Livro Trend Driven Innovation",
     "hint": "Business Model innovation looks beyond incremental product changes to fundamental structural shifts, often requiring foresight into industry trends.",
-    "short_explanation": "The core concern of Business Model Innovation is determining whether an emerging trend (like the Collaborative Economy or Fuzzynomics) is **unlocking entirely new ways** for the business to operate, create, and capture value (whole new business models).",
+    "short_explanation": "The core concern of Business Model Innovation is determining whether an emerging trend is **unlocking entirely new ways** for the business to operate, create, and capture value (whole new business models).",
     "long_explanation": "Business Model Innovation is essential because developing new products is no longer sufficient for survival. The main concern is whether a trend facilitates fundamental changes to the value proposition, revenue streams, or operational structure (e.g., car sharing business models). Innovations at this level are harder to copy and provide a crucial competitive advantage."
   },
   {
@@ -1601,8 +1633,8 @@
     "tema": "Types of Innovation (Marketing)",
     "fonte": "Livro Trend Driven Innovation",
     "hint": "Marketing innovation is the outward manifestation of the brand's response to a trend (e.g., using personalization to enhance engagement).",
-    "short_explanation": "Marketing/Campaigns Innovation focuses on external communication. The main concern is how the brand's messaging reflects the trend (e.g., Fempowerment, Flawsome) and whether customers are engaging with this message.",
-    "long_explanation": "This type of innovation is crucial for achieving Strategic Relevance and Engagement. By monitoring Marketing/Campaigns innovation, analysts look at how brands are visually and verbally adapting to emerging customer expectations and how effectively these campaigns drive consumer response. For example, personalized communication (a key P of Hyper-Relevance) is often implemented through marketing campaigns."
+    "short_explanation": "Marketing/Campaigns Innovation focuses on external communication. The main concern is how the brand's messaging reflects the trend (e.g., Flawsome, Fempowerment) and whether customers are engaging with this message.",
+    "long_explanation": "This type of innovation is crucial for achieving Strategic Relevance and Engagement. By monitoring Marketing/Campaigns innovation, analysts look at how brands are visually and verbally adapting to emerging customer expectations and how effectively these campaigns drive consumer response. For example, Domino's response to transparency and McDonald's Canada response to consumer questions are examples of Marketing Innovation."
   },
   {
     "id": 110,
